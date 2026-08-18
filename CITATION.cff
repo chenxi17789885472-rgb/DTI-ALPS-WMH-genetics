@@ -4,6 +4,7 @@ title: "DTI-ALPS and WMH genetic relationship: analysis code and reproducibility
 type: software
 version: 1.0.0
 date-released: 2026-08-18
+doi: "10.5281/zenodo.21997217"
 authors:
   - family-names: Fu
     given-names: Qingqing
