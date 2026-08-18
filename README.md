@@ -2,6 +2,8 @@
 
 This repository accompanies the manuscript **"Genome-wide and Regional Genetic Relationships Between DTI-ALPS Phenotypes and White Matter Hyperintensity Burden: Colocalization and Fine-Mapping Analyses."** It reproduces the core R-based analyses and publication figures. It contains no complete third-party GWAS dataset; public source data must be obtained from the original repositories under their respective terms.
 
+Permanent repository address: <https://github.com/chenxi17789885472-rgb/DTI-ALPS-WMH-genetics>
+
 ## Authors
 
 Qingqing Fu and Ge Zhang contributed equally. Weiyuan Huang and Feng Chen are

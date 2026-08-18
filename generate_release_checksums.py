@@ -9,6 +9,15 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 OUTPUT = ROOT / "SHA256SUMS.txt"
 EXCLUDED_NAMES = {"SHA256SUMS.txt", ".DS_Store"}
+RENV_LOCAL_DIRS = {"library", "local", "cellar", "lock", "python", "sandbox", "staging"}
+
+
+def is_local_environment_file(path: Path) -> bool:
+    parts = path.relative_to(ROOT).parts
+    return any(
+        parts[index] == "renv" and parts[index + 1] in RENV_LOCAL_DIRS
+        for index in range(len(parts) - 1)
+    )
 
 
 def sha256(path: Path) -> str:
@@ -25,6 +34,7 @@ files = [
     if path.is_file()
     and ".git" not in path.parts
     and path.name not in EXCLUDED_NAMES
+    and not is_local_environment_file(path)
 ]
 
 OUTPUT.write_text(
