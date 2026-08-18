@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "snpId": "rs35408318",
+      "b37VariantId": "16_87244657_A_G_b37",
+      "pos": 87211051,
+      "maf01": true,
+      "variantId": "chr16_87211051_A_G_b38",
+      "alt": "G",
+      "chromosome": "chr16",
+      "snpIdUpper": "RS35408318",
+      "datasetId": "gtex_v8",
+      "ref": "A",
+      "shorthand": null
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

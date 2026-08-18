@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "snpId": "rs12921714",
+      "b37VariantId": "16_87226717_A_C_b37",
+      "pos": 87193111,
+      "maf01": true,
+      "variantId": "chr16_87193111_A_C_b38",
+      "alt": "C",
+      "chromosome": "chr16",
+      "snpIdUpper": "RS12921714",
+      "datasetId": "gtex_v8",
+      "ref": "A",
+      "shorthand": null
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 250,
+    "totalNumberOfItems": 1
+  }
+}

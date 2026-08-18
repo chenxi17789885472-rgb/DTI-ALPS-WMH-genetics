@@ -1,0 +1,21 @@
+gene,evidence,present
+C16orf95,Regional position,1
+FBXO31,Regional position,1
+MAP1LC3B,Regional position,1
+ZCCHC14,Regional position,1
+JPH3,Regional position,1
+C16orf95,Credible-variant overlap,1
+FBXO31,Credible-variant overlap,0
+MAP1LC3B,Credible-variant overlap,0
+ZCCHC14,Credible-variant overlap,0
+JPH3,Credible-variant overlap,0
+C16orf95,Brain eQTL,0
+FBXO31,Brain eQTL,0
+MAP1LC3B,Brain eQTL,0
+ZCCHC14,Brain eQTL,0
+JPH3,Brain eQTL,0
+C16orf95,MAGMA nominal in 3 traits,1
+FBXO31,MAGMA nominal in 3 traits,0
+MAP1LC3B,MAGMA nominal in 3 traits,0
+ZCCHC14,MAGMA nominal in 3 traits,0
+JPH3,MAGMA nominal in 3 traits,0

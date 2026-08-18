@@ -1,0 +1,65 @@
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 3.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./ldsc.py \
+--out ${ALPS_WORKSPACE_ROOT}/ALPS_GENETIC_ARCHITECTURE/Gate5C/04_LDSC_results/left_ALPS_Dementia_FinnGen_R13 \
+--rg ${ALPS_WORKSPACE_ROOT}/ALPS_GENETIC_ARCHITECTURE/03_LDSC/munged/left_ALPS.sumstats.gz,${ALPS_WORKSPACE_ROOT}/ALPS_GENETIC_ARCHITECTURE/Gate5C/03_LDSC_munged/Dementia_FinnGen_R13.sumstats.gz \
+--ref-ld-chr ${ALPS_WORKSPACE_ROOT}/ALPS_GENETIC_ARCHITECTURE/03_LDSC/reference/eur_w_ld_chr/ \
+--w-ld-chr ${ALPS_WORKSPACE_ROOT}/ALPS_GENETIC_ARCHITECTURE/03_LDSC/reference/eur_w_ld_chr/ 
+
+Beginning analysis at Sat Jul 25 13:26:20 2026
+Reading summary statistics from ${ALPS_WORKSPACE_ROOT}/ALPS_GENETIC_ARCHITECTURE/03_LDSC/munged/left_ALPS.sumstats.gz ...
+Read summary statistics for 1110506 SNPs.
+Reading reference panel LD Score from ${ALPS_WORKSPACE_ROOT}/ALPS_GENETIC_ARCHITECTURE/03_LDSC/reference/eur_w_ld_chr/[1-22] ... (ldscore_fromlist)
+Read reference panel LD Scores for 1290028 SNPs.
+Removing partitioned LD Scores with zero variance.
+Reading regression weight LD Score from ${ALPS_WORKSPACE_ROOT}/ALPS_GENETIC_ARCHITECTURE/03_LDSC/reference/eur_w_ld_chr/[1-22] ... (ldscore_fromlist)
+Read regression weight LD Scores for 1290028 SNPs.
+After merging with reference panel LD, 1105108 SNPs remain.
+After merging with regression SNP LD, 1105108 SNPs remain.
+Computing rg for phenotype 2/2
+Reading summary statistics from ${ALPS_WORKSPACE_ROOT}/ALPS_GENETIC_ARCHITECTURE/Gate5C/03_LDSC_munged/Dementia_FinnGen_R13.sumstats.gz ...
+Read summary statistics for 1217311 SNPs.
+After merging with summary statistics, 1105108 SNPs remain.
+1086657 SNPs with valid alleles.
+
+Heritability of phenotype 1
+---------------------------
+Total Observed scale h2: 0.2886 (0.0234)
+Lambda GC: 1.1459
+Mean Chi^2: 1.1832
+Intercept: 1.0018 (0.0084)
+Ratio: 0.0099 (0.0456)
+
+Heritability of phenotype 2/2
+-----------------------------
+Total Observed scale h2: 0.0098 (0.0073)
+Lambda GC: 1.2038
+Mean Chi^2: 1.2828
+Intercept: 1.1788 (0.1034)
+Ratio: 0.6325 (0.3657)
+
+Genetic Covariance
+------------------
+Total Observed scale gencov: 0.0006 (0.0037)
+Mean z1*z2: -0.0163
+Intercept: -0.0146 (0.0056)
+
+Genetic Correlation
+-------------------
+Genetic Correlation: 0.0119 (0.0703)
+Z-score: 0.1686
+P: 0.8661
+
+
+Summary of Genetic Correlation Results
+                                                                                        p1                                                                                                           p2     rg     se      z      p  h2_obs  h2_obs_se  h2_int  h2_int_se  gcov_int  gcov_int_se
+${ALPS_WORKSPACE_ROOT}/ALPS_GENETIC_ARCHITECTURE/03_LDSC/munged/left_ALPS.sumstats.gz ${ALPS_WORKSPACE_ROOT}/ALPS_GENETIC_ARCHITECTURE/Gate5C/03_LDSC_munged/Dementia_FinnGen_R13.sumstats.gz 0.0119 0.0703 0.1686 0.8661  0.0098     0.0073  1.1788     0.1034   -0.0146       0.0056
+
+Analysis finished at Sat Jul 25 13:26:27 2026
+Total time elapsed: 6.46s

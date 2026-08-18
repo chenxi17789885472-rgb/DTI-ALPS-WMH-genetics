@@ -1,0 +1,14 @@
+domain	trait	source_id	target_SNPs	observed_SNPs	harmonized_SNPs	coverage_percent	minimum_p	nominal_hits	FDR_hits	Bonferroni_hits	sample_overlap
+Sleep	Insomnia	FinnGen_R13_F5_INSOMNIA	14	13	12	85.71	0.0038699	1	1	0	No known UK Biobank overlap
+Sleep	Sleep duration	Dashti_2019_sleep_duration	14	12	12	85.71	4.2e-08	3	2	2	UK Biobank overlap likely
+Sleep	Daytime sleepiness	Wang_2019_daytime_sleepiness	14	12	12	85.71	0.00053	1	1	0	UK Biobank overlap likely
+Neurodegenerative	Alzheimer disease	FinnGen_R13_G6_ALZHEIMER	14	13	12	85.71	0.000489768	5	2	0	No known UK Biobank overlap
+Neurodegenerative	Parkinson disease	FinnGen_R13_G6_PARKINSON	14	13	12	85.71	0.000935212	1	1	0	No known UK Biobank overlap
+Neurodegenerative	Dementia	FinnGen_R13_F5_DEMENTIA	14	13	12	85.71	9.77642e-06	4	2	2	No known UK Biobank overlap
+Cerebrovascular	Stroke	FinnGen_R13_I9_STR	14	13	12	85.71	0.00127324	2	1	0	No known UK Biobank overlap
+Cerebrovascular	Cerebral small vessel disease	NeuroCHARGE_2020_WMH_burden	14	10	10	71.43	1.846e-17	3	2	1	Includes UK Biobank imaging participants; overlap possible
+Psychiatric	Depression	FinnGen_R13_F5_DEPRESSIO	14	13	12	85.71	1.70915e-05	5	3	1	No known UK Biobank overlap
+Psychiatric	Anxiety	FinnGen_R13_F5_ALLANXIOUS	14	13	12	85.71	0.00164418	4	1	0	No known UK Biobank overlap
+Metabolic	Body mass index	GIANT_Locke_2015_BMI_EUR	14	10	10	71.43	0.0455	1	0	0	No UK Biobank in the 2015 GIANT discovery data
+Metabolic	Obesity	FinnGen_R13_E4_OBESITY	14	13	12	85.71	1.64479e-05	3	1	1	No known UK Biobank overlap
+Metabolic	Type 2 diabetes	FinnGen_R13_T2D	14	13	12	85.71	0.000393931	3	2	0	No known UK Biobank overlap

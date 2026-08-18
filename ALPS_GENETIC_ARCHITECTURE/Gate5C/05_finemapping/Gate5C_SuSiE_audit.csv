@@ -1,0 +1,9 @@
+metric,value
+LD_reference_samples,489
+LD_matrix_SNPs,1832
+SuSiE_L,10
+credible_set_coverage,0.95
+WMH_signals,1
+mALPS_signals,1
+left_ALPS_signals,1
+right_ALPS_signals,1

@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1120">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#17324D" flood-opacity="0.12"/>
+    </filter>
+    <linearGradient id="header" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#123B5D"/>
+      <stop offset="1" stop-color="#176B87"/>
+    </linearGradient>
+    <linearGradient id="highlight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E7F7F4"/>
+      <stop offset="1" stop-color="#D9F0EA"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="13" markerHeight="10" refX="11" refY="5" orient="auto">
+      <path d="M0,0 L13,5 L0,10 Z" fill="#527087"/>
+    </marker>
+    <marker id="arrow-teal" markerWidth="13" markerHeight="10" refX="11" refY="5" orient="auto">
+      <path d="M0,0 L13,5 L0,10 Z" fill="#11887A"/>
+    </marker>
+    <style>
+      text {
+        font-family: Arial, Helvetica, sans-serif;
+        fill: #17324D;
+      }
+      .phase {
+        font-size: 27px;
+        font-weight: 700;
+        letter-spacing: 0.4px;
+      }
+      .step-no {
+        font-size: 19px;
+        font-weight: 700;
+        fill: #FFFFFF;
+      }
+      .node-title {
+        font-size: 25px;
+        font-weight: 700;
+      }
+      .node-sub {
+        font-size: 18px;
+        font-weight: 400;
+        fill: #48657A;
+      }
+      .small {
+        font-size: 16px;
+        fill: #5B7384;
+      }
+      .source-title {
+        font-size: 30px;
+        font-weight: 700;
+        fill: #FFFFFF;
+      }
+      .source-sub {
+        font-size: 20px;
+        fill: #DCECF4;
+      }
+      .source-meta-title {
+        font-size: 18px;
+        font-weight: 700;
+        fill: #FFFFFF;
+      }
+      .source-meta-sub {
+        font-size: 16px;
+        fill: #DCECF4;
+      }
+      .badge {
+        font-size: 14px;
+        font-weight: 700;
+        fill: #FFFFFF;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1800" height="1120" fill="#F7FAFC"/>
+  <rect x="42" y="36" width="1716" height="1048" rx="30" fill="#FFFFFF" stroke="#D6E1E8" stroke-width="2"/>
+
+  <!-- Source -->
+  <g filter="url(#shadow)">
+    <rect x="105" y="72" width="1590" height="142" rx="24" fill="url(#header)"/>
+  </g>
+  <circle cx="175" cy="143" r="39" fill="#FFFFFF" fill-opacity="0.14" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="2"/>
+  <path d="M154 151 C164 132, 184 126, 196 140 C203 150, 197 166, 181 170 C166 174, 151 166,154 151Z"
+        fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  <path d="M174 119 L174 168 M158 137 L193 137" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <text x="235" y="132" class="source-title">UK Biobank DTI-ALPS genome-wide association studies</text>
+  <text x="235" y="170" class="source-sub">Imaging-derived phenotypes: mean ALPS (primary), left ALPS, and right ALPS</text>
+  <g>
+    <rect x="1325" y="104" width="315" height="76" rx="18" fill="#FFFFFF" fill-opacity="0.12" stroke="#FFFFFF" stroke-opacity="0.35"/>
+    <text x="1482" y="135" text-anchor="middle" class="source-meta-title">Summary statistics</text>
+    <text x="1482" y="161" text-anchor="middle" class="source-meta-sub">European ancestry · GRCh37</text>
+  </g>
+
+  <!-- Phase 1 region -->
+  <rect x="105" y="275" width="1590" height="215" rx="24" fill="#F1F6FA" stroke="#C9D9E4" stroke-width="2"/>
+  <rect x="105" y="275" width="290" height="215" rx="24" fill="#E2EDF4"/>
+  <rect x="371" y="275" width="24" height="215" fill="#E2EDF4"/>
+  <text x="145" y="330" class="phase">PHASE 1</text>
+  <text x="145" y="369" font-size="22" font-weight="700">Genetic architecture</text>
+  <text x="145" y="402" class="node-sub">Establish the genetic</text>
+  <text x="145" y="428" class="node-sub">basis of DTI-ALPS</text>
+
+  <line x1="788" y1="383" x2="876" y2="383" stroke="#527087" stroke-width="4" marker-end="url(#arrow)"/>
+  <line x1="1236" y1="383" x2="1324" y2="383" stroke="#527087" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="440" y="314" width="348" height="138" rx="18" fill="#FFFFFF" stroke="#7FA7C0" stroke-width="2"/>
+  </g>
+  <circle cx="475" cy="345" r="21" fill="#2577A7"/>
+  <text x="475" y="352" text-anchor="middle" class="step-no">1</text>
+  <text x="515" y="355" class="node-title">Locus discovery</text>
+  <text x="475" y="397" class="node-sub">Genome-wide significance</text>
+  <text x="475" y="425" class="node-sub">and phenotype-specific loci</text>
+
+  <g filter="url(#shadow)">
+    <rect x="888" y="314" width="348" height="138" rx="18" fill="#FFFFFF" stroke="#7FA7C0" stroke-width="2"/>
+  </g>
+  <circle cx="923" cy="345" r="21" fill="#2577A7"/>
+  <text x="923" y="352" text-anchor="middle" class="step-no">2</text>
+  <text x="963" y="355" class="node-title">LD clumping</text>
+  <text x="923" y="397" class="node-sub">Independent sentinel variants</text>
+  <text x="923" y="425" class="node-sub">and merged cross-trait loci</text>
+
+  <g filter="url(#shadow)">
+    <rect x="1336" y="314" width="298" height="138" rx="18" fill="#FFFFFF" stroke="#7FA7C0" stroke-width="2"/>
+  </g>
+  <circle cx="1371" cy="345" r="21" fill="#2577A7"/>
+  <text x="1371" y="352" text-anchor="middle" class="step-no">3</text>
+  <text x="1411" y="355" class="node-title">SNP heritability</text>
+  <text x="1371" y="397" class="node-sub">LDSC h² estimates for</text>
+  <text x="1371" y="425" class="node-sub">mean, left, and right ALPS</text>
+
+  <!-- Phase connector -->
+  <path d="M1485 490 L1485 525 L420 525 L420 558" fill="none" stroke="#527087" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <!-- Phase 2 region -->
+  <rect x="105" y="558" width="1590" height="240" rx="24" fill="#F0F8F6" stroke="#BFDCD5" stroke-width="2"/>
+  <rect x="105" y="558" width="290" height="240" rx="24" fill="#DCF0EB"/>
+  <rect x="371" y="558" width="24" height="240" fill="#DCF0EB"/>
+  <text x="145" y="613" class="phase">PHASE 2</text>
+  <text x="145" y="652" font-size="22" font-weight="700">Shared architecture</text>
+  <text x="145" y="685" class="node-sub">Move from broad cross-trait</text>
+  <text x="145" y="711" class="node-sub">signals to local sharing</text>
+
+  <line x1="788" y1="678" x2="876" y2="678" stroke="#11887A" stroke-width="4" marker-end="url(#arrow-teal)"/>
+  <line x1="1236" y1="678" x2="1324" y2="678" stroke="#11887A" stroke-width="4" marker-end="url(#arrow-teal)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="440" y="601" width="348" height="154" rx="18" fill="#FFFFFF" stroke="#4BAA9B" stroke-width="2"/>
+  </g>
+  <circle cx="475" cy="634" r="21" fill="#11887A"/>
+  <text x="475" y="641" text-anchor="middle" class="step-no">4</text>
+  <text x="515" y="644" class="node-title">Targeted PheWAS</text>
+  <text x="475" y="688" class="node-sub">13 prespecified sleep and</text>
+  <text x="475" y="716" class="node-sub">brain-health traits</text>
+
+  <g filter="url(#shadow)">
+    <rect x="888" y="601" width="348" height="154" rx="18" fill="#FFFFFF" stroke="#4BAA9B" stroke-width="2"/>
+  </g>
+  <circle cx="923" cy="634" r="21" fill="#11887A"/>
+  <text x="923" y="641" text-anchor="middle" class="step-no">5</text>
+  <text x="963" y="644" class="node-title">Genome-wide sharing</text>
+  <text x="923" y="688" class="node-sub">Cross-trait LDSC genetic</text>
+  <text x="923" y="716" class="node-sub">correlations with WMH and traits</text>
+
+  <g filter="url(#shadow)">
+    <rect x="1336" y="590" width="298" height="176" rx="18" fill="url(#highlight)" stroke="#11887A" stroke-width="3"/>
+  </g>
+  <circle cx="1371" cy="623" r="21" fill="#0D766B"/>
+  <text x="1371" y="630" text-anchor="middle" class="step-no">6</text>
+  <text x="1411" y="633" class="node-title">Local sharing</text>
+  <text x="1371" y="677" class="node-sub">chr16 ALPS–WMH coloc</text>
+  <text x="1371" y="705" class="node-sub">and SuSiE fine-mapping</text>
+  <rect x="1395" y="724" width="181" height="27" rx="13.5" fill="#11887A"/>
+  <text x="1485" y="743" text-anchor="middle" class="badge">CORE ANALYSIS</text>
+
+  <!-- Phase connector -->
+  <path d="M1485 798 L1485 832 L420 832 L420 865" fill="none" stroke="#527087" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <!-- Phase 3 region -->
+  <rect x="105" y="865" width="1590" height="177" rx="24" fill="#FAF7F1" stroke="#E4D5BB" stroke-width="2"/>
+  <rect x="105" y="865" width="290" height="177" rx="24" fill="#F3E9D8"/>
+  <rect x="371" y="865" width="24" height="177" fill="#F3E9D8"/>
+  <text x="145" y="920" class="phase">PHASE 3</text>
+  <text x="145" y="959" font-size="22" font-weight="700">Triangulation</text>
+  <text x="145" y="992" class="node-sub">Validation, annotation,</text>
+  <text x="145" y="1018" class="node-sub">and directional evidence</text>
+
+  <line x1="788" y1="954" x2="876" y2="954" stroke="#8A6B3F" stroke-width="4" marker-end="url(#arrow)"/>
+  <line x1="1236" y1="954" x2="1324" y2="954" stroke="#8A6B3F" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="440" y="892" width="348" height="124" rx="18" fill="#FFFFFF" stroke="#C29B62" stroke-width="2"/>
+  </g>
+  <circle cx="475" cy="923" r="21" fill="#A97631"/>
+  <text x="475" y="930" text-anchor="middle" class="step-no">7</text>
+  <text x="515" y="933" class="node-title">Non-UKB evidence</text>
+  <text x="475" y="973" class="node-sub">Traylor formal coloc</text>
+  <text x="475" y="999" class="small">CHARGE regional screen only</text>
+
+  <g filter="url(#shadow)">
+    <rect x="888" y="892" width="348" height="124" rx="18" fill="#FFFFFF" stroke="#C29B62" stroke-width="2"/>
+  </g>
+  <circle cx="923" cy="923" r="21" fill="#A97631"/>
+  <text x="923" y="930" text-anchor="middle" class="step-no">8</text>
+  <text x="963" y="933" class="node-title">Functional annotation</text>
+  <text x="923" y="973" class="node-sub">VEP · GTEx v8 · MAGMA</text>
+  <text x="923" y="999" class="small">Gene and pathway prioritization</text>
+
+  <g filter="url(#shadow)">
+    <rect x="1336" y="892" width="298" height="124" rx="18" fill="#FFFFFF" stroke="#C29B62" stroke-width="2"/>
+  </g>
+  <circle cx="1371" cy="923" r="21" fill="#A97631"/>
+  <text x="1371" y="930" text-anchor="middle" class="step-no">9</text>
+  <text x="1411" y="933" class="node-title">Exploratory MR</text>
+  <text x="1371" y="973" class="node-sub">mALPS → WMH using</text>
+  <text x="1371" y="999" class="small">non-UKB outcome data</text>
+</svg>

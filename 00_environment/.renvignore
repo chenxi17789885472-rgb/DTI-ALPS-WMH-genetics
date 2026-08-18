@@ -1,0 +1,16 @@
+node_modules/
+.venv/
+01_raw_finngen/
+02_raw_alps/
+03_raw_replication/
+04_ld_reference/
+06_intermediate/
+08_results/
+outputs/
+
+# Generated / vendored content: not project source code.
+ALPS_GENETIC_ARCHITECTURE/03_LDSC/software/
+ALPS_GENETIC_ARCHITECTURE/09_manuscript/R_libs/
+ALPS_GENETIC_ARCHITECTURE/09_manuscript/DTI_ALPS_WMH_Final_Submission_Package_*/
+ALPS_GENETIC_ARCHITECTURE/09_manuscript/submission_assets/figures/archive/
+ALPS_GENETIC_ARCHITECTURE/09_manuscript/submission_packages/

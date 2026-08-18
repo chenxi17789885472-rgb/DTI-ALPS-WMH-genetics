@@ -1,0 +1,28 @@
+PLINK v2.0.0-a.7.1 M1 (4 May 2026)
+Options in effect:
+  --bfile 04_ld_reference/1000G.EUR.QC
+  --extract ALPS_GENETIC_ARCHITECTURE/Gate5C/05_finemapping/susie_common_snps.txt
+  --out ALPS_GENETIC_ARCHITECTURE/Gate5C/05_finemapping/1000G_EUR_chr16_susie
+  --r-unphased square ref-based
+
+Hostname: appledeMacBook-Pro.local
+Working directory: ${ALPS_WORKSPACE_ROOT}
+Start time: Sat Jul 25 13:31:04 2026
+
+Random number seed: 1784957464
+16384 MiB RAM detected; reserving 8192 MiB for main workspace.
+Using up to 8 compute threads.
+489 samples (0 females, 0 males, 489 ambiguous; 489 founders) loaded from
+04_ld_reference/1000G.EUR.QC.fam.
+5961159 variants loaded from 04_ld_reference/1000G.EUR.QC.bim.
+Note: No phenotype data present.
+--extract: 1832 variants remaining.
+1832 variants remaining after main filters.
+--r-unphased: Variant IDs written to
+ALPS_GENETIC_ARCHITECTURE/Gate5C/05_finemapping/1000G_EUR_chr16_susie.unphased.vcor1.vars
+.
+--r-unphased: Matrix written to
+ALPS_GENETIC_ARCHITECTURE/Gate5C/05_finemapping/1000G_EUR_chr16_susie.unphased.vcor1
+.
+
+End time: Sat Jul 25 13:31:04 2026

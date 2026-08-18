@@ -1,0 +1,13 @@
+target_SNP	selected_SNP	r2	selection	reason
+rs3769136	rs3769136	1.0	direct	direct
+rs2533872	rs2527677	1.0	proxy	direct_missing
+rs12146713	rs12146713	1.0	direct	direct
+rs2702723	rs2632030	1.0	proxy	direct_palindromic
+rs4843555	rs4843555	1.0	direct	direct
+rs4239889	rs4239889	1.0	direct	direct
+rs4664951	rs4664951	1.0	direct	direct
+rs6012259			unrecovered	direct_palindromic
+rs7225002			unrecovered	direct_missing
+rs3783324	rs3783324	1.0	direct	direct
+rs10817103	rs10817103	1.0	direct	direct
+rs174538	rs174538	1.0	direct	direct

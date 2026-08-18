@@ -1,0 +1,7 @@
+step,label
+1,"ALPS GWAS"
+2,"Loci + SNP h²"
+3,"Targeted cross-trait screen"
+4,"LDSC genetic correlation"
+5,"chr16 coloc + SuSiE"
+6,"Non-UKB evaluation + annotation"

@@ -1,0 +1,10 @@
+{
+  "credible_variants_queried": 38,
+  "GTEx_v8_variants_mapped": 37,
+  "GTEx_all_tissue_significant_eQTL_rows": 59,
+  "GTEx_brain_significant_eQTL_rows": 0,
+  "GTEx_brain_eQTL_genes": [],
+  "VEP_variants_returned": 38,
+  "query_date": "2026-07-25",
+  "GTEx_dataset": "gtex_v8"
+}

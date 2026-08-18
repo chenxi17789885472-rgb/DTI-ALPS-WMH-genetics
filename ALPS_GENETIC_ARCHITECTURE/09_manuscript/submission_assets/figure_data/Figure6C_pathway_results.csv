@@ -1,0 +1,7 @@
+library,term,traits_tested,traits_P_lt_0_005,minimum_P,maximum_P,minimum_BH_FDR,FDR_significant_any_trait,term_short,neglog10p
+Reactome_2022,CRMPs In Sema3A Signaling R-HSA-399956,3,3,0.00013544,0.0016368,0.591686530612245,FALSE,CRMP/Sema3A signaling,2.78600438363192
+GO_BP_2023,Regulation Of Microtubule-Based Process (GO:0032886),3,3,0.00034045,0.0023681,0.591686530612245,FALSE,Microtubule regulation,2.62559996219776
+GO_BP_2023,Regulation Of Proteasomal Protein Catabolic Process (GO:0061136),3,3,0.00037844,0.0024456,0.591686530612245,FALSE,Proteasomal catabolism,2.61161457428197
+GO_BP_2023,Calcium Ion Import (GO:0070509),3,3,0.00061329,0.0029504,0.591686530612245,FALSE,Calcium ion import,2.53011910062646
+GO_BP_2023,Smooth Muscle Cell Differentiation (GO:0051145),3,3,0.00060432,0.0030697,0.591686530612245,FALSE,Smooth-muscle differentiation,2.51290406579671
+GO_BP_2023,Chromatin Organization (GO:0006325),3,3,0.0014894,0.0047063,0.591686530612245,FALSE,Chromatin organization,2.32732039246133

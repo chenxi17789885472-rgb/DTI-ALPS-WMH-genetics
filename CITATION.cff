@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code or the accompanying derived materials, please cite the associated article and this archived software release."
+title: "DTI-ALPS and WMH genetic relationship: analysis code and reproducibility materials"
+type: software
+version: 1.0.0
+date-released: 2026-08-18
+authors:
+  - family-names: Fu
+    given-names: Qingqing
+  - family-names: Zhang
+    given-names: Ge
+  - family-names: Chen
+    given-names: Huijuan
+  - family-names: Guo
+    given-names: Yihao
+  - family-names: Fu
+    given-names: Lili
+  - family-names: Dong
+    given-names: Fen
+  - family-names: Huang
+    given-names: Weiyuan
+  - family-names: Chen
+    given-names: Feng
+keywords:
+  - DTI-ALPS
+  - white matter hyperintensity
+  - imaging genetics
+  - colocalization
+  - fine-mapping
+  - cerebral small vessel disease
+license: MIT
+

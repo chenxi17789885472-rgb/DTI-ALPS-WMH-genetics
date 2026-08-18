@@ -1,0 +1,33 @@
+PLINK v2.0.0-a.7.1 M1 (4 May 2026)
+Options in effect:
+  --bfile 04_ld_reference/1000G.EUR.QC
+  --ld-snp-list ALPS_GENETIC_ARCHITECTURE/Gate5C/10_mALPS_to_WMH_MR/00_protocol/proxy_targets.txt
+  --ld-window 999999
+  --ld-window-kb 1000
+  --ld-window-r2 0.8
+  --out ALPS_GENETIC_ARCHITECTURE/Gate5C/10_mALPS_to_WMH_MR/01_proxy_search/1000G_EUR_mALPS_proxy
+  --r2-unphased
+
+Hostname: appledeMacBook-Pro.local
+Working directory: ${ALPS_WORKSPACE_ROOT}
+Start time: Sun Jul 26 00:14:38 2026
+
+Random number seed: 1784996078
+16384 MiB RAM detected; reserving 8192 MiB for main workspace.
+Using up to 8 compute threads.
+489 samples (0 females, 0 males, 489 ambiguous; 489 founders) loaded from
+04_ld_reference/1000G.EUR.QC.fam.
+5961159 variants loaded from 04_ld_reference/1000G.EUR.QC.bim.
+Note: No phenotype data present.
+Calculating allele frequencies... done.
+--ld-snp-list: 4 variants remaining.
+Running --r2-unphased with the following filters:
+  --ld-window: 999999
+  --ld-window-kb: 1000
+  --ld-window-r2: 0.8
+  --ld-snp-list
+--r2-unphased: Results written to
+ALPS_GENETIC_ARCHITECTURE/Gate5C/10_mALPS_to_WMH_MR/01_proxy_search/1000G_EUR_mALPS_proxy.vcor
+.
+
+End time: Sun Jul 26 00:14:39 2026

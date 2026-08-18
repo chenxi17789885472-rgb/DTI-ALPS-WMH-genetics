@@ -1,0 +1,4 @@
+phenotype	raw_file	genome_build	raw_rows	unique_rsid	valid_p	positive_se	valid_eaf	gws_raw_rows	gws_biallelic_unique_candidates	strict_independent_sentinels	n_min	n_median	n_max	p_min	md5	sha256
+mALPS	${ALPS_WORKSPACE_ROOT}/02_raw_alps/Mean_ALPS_index.txt.gz	GRCh37	8447093	8443058	True	True	True	554	498	12	29431	30916.0	31021	8.17781e-16	a3be801c26ec5d24f507dcae338a76cb	12738d7de26fd343192c0542bb2f25d157b7f5a060740b0ccc046eef3e47ecd7
+left_ALPS	${ALPS_WORKSPACE_ROOT}/02_raw_alps/Left_ALPS_index.txt.gz	GRCh37	8447093	8443058	True	True	True	470	426	7	29431	30916.0	31021	8.3001e-13	9cdb0f484d72e030c8c24a5c21616bd5	29791fd7f4ba663898bdd5513670427b7ed379d21a3e144407d091fac38e0706
+right_ALPS	${ALPS_WORKSPACE_ROOT}/02_raw_alps/Right_ALPS_index.txt.gz	GRCh37	8447093	8443058	True	True	True	594	536	10	29431	30916.0	31021	3.36374e-16	0f44fbcfed6fa7f1ff085b8c1da7dfe4	c859887a1a17407755773266875e0ec9cbd9702ef12774bcd31e0c74f8393f4a

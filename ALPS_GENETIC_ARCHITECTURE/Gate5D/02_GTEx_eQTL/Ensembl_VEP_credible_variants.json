@@ -1,0 +1,3164 @@
+[
+  {
+    "assembly_name": "GRCh38",
+    "allele_string": "G/A/C/T",
+    "end": 87193791,
+    "input": "rs12921170",
+    "start": 87193791,
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "strand": 1,
+    "id": "rs12921170",
+    "transcript_consequences": [
+      {
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "biotype": "protein_coding_CDS_not_defined",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "A",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1
+      },
+      {
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "C",
+        "biotype": "protein_coding_CDS_not_defined",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "gene_symbol_source": "HGNC"
+      },
+      {
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "biotype": "protein_coding_CDS_not_defined",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "T",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1
+      }
+    ],
+    "colocated_variants": [
+      {
+        "pubmed": [
+          33293549,
+          33875891,
+          31676860,
+          38890310
+        ],
+        "id": "rs12921170",
+        "seq_region_name": "16",
+        "frequencies": {
+          "T": {
+            "gnomadg_ami": 0,
+            "gnomadg_amr": 0,
+            "gnomadg_nfe": 1.471e-05,
+            "gnomadg_asj": 0,
+            "gnomadg_eas": 0,
+            "gnomadg_fin": 0,
+            "gnomadg_remaining": 0,
+            "gnomadg": 6.583e-06,
+            "gnomadg_sas": 0,
+            "gnomadg_afr": 0,
+            "gnomadg_mid": 0
+          },
+          "A": {
+            "gnomadg_remaining": 0.4924,
+            "sas": 0.4632,
+            "gnomadg_afr": 0.2644,
+            "gnomadg_mid": 0.602,
+            "eur": 0.5507,
+            "gnomadg": 0.4574,
+            "af": 0.365,
+            "gnomadg_ami": 0.6419,
+            "gnomadg_amr": 0.4652,
+            "gnomadg_asj": 0.6499,
+            "gnomadg_fin": 0.4755,
+            "gnomadg_sas": 0.4854,
+            "amr": 0.5029,
+            "gnomadg_nfe": 0.5798,
+            "afr": 0.2496,
+            "eas": 0.1409,
+            "gnomadg_eas": 0.1255
+          }
+        },
+        "end": 87193791,
+        "phenotype_or_disease": 1,
+        "start": 87193791,
+        "strand": 1,
+        "allele_string": "G/A/C/T"
+      }
+    ]
+  },
+  {
+    "id": "rs4843555",
+    "transcript_consequences": [
+      {
+        "strand": -1,
+        "impact": "MODIFIER",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "biotype": "protein_coding_CDS_not_defined",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "A",
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033"
+      },
+      {
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "C",
+        "transcript_id": "ENST00000562840",
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "strand": -1,
+        "impact": "MODIFIER",
+        "gene_symbol_source": "HGNC"
+      }
+    ],
+    "most_severe_consequence": "intron_variant",
+    "strand": 1,
+    "seq_region_name": "16",
+    "start": 87197554,
+    "input": "rs4843555",
+    "colocated_variants": [
+      {
+        "allele_string": "T/A/C",
+        "strand": 1,
+        "start": 87197554,
+        "phenotype_or_disease": 1,
+        "end": 87197554,
+        "frequencies": {
+          "A": {
+            "gnomadg_eas": 0,
+            "gnomadg_asj": 0,
+            "gnomadg_nfe": 0,
+            "gnomadg_ami": 0,
+            "gnomadg_amr": 6.551e-05,
+            "gnomadg_afr": 0,
+            "gnomadg_mid": 0,
+            "gnomadg_sas": 0,
+            "gnomadg": 6.584e-06,
+            "gnomadg_remaining": 0,
+            "gnomadg_fin": 0
+          },
+          "C": {
+            "gnomadg_fin": 0.4796,
+            "gnomadg_sas": 0.4917,
+            "afr": 0.2375,
+            "gnomadg_nfe": 0.5816,
+            "amr": 0.5058,
+            "eas": 0.2063,
+            "gnomadg_eas": 0.2055,
+            "gnomadg_remaining": 0.4891,
+            "af": 0.3768,
+            "eur": 0.5567,
+            "gnomadg": 0.4581,
+            "gnomadg_mid": 0.602,
+            "sas": 0.4642,
+            "gnomadg_afr": 0.2519,
+            "gnomadg_ami": 0.6363,
+            "gnomadg_amr": 0.4657,
+            "gnomadg_asj": 0.6535
+          }
+        },
+        "id": "rs4843555",
+        "seq_region_name": "16",
+        "pubmed": [
+          33875891,
+          37236919,
+          36707530,
+          32665545,
+          39805841
+        ]
+      }
+    ],
+    "assembly_name": "GRCh38",
+    "end": 87197554,
+    "allele_string": "T/A/C"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "allele_string": "A/C",
+    "end": 87199579,
+    "input": "rs4843553",
+    "start": 87199579,
+    "seq_region_name": "16",
+    "most_severe_consequence": "intron_variant",
+    "strand": 1,
+    "transcript_consequences": [
+      {
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER",
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "C",
+        "transcript_id": "ENST00000562840"
+      }
+    ],
+    "id": "rs4843553",
+    "colocated_variants": [
+      {
+        "start": 87199579,
+        "strand": 1,
+        "allele_string": "A/C",
+        "id": "rs4843553",
+        "seq_region_name": "16",
+        "pubmed": [
+          32318716,
+          33293549,
+          36241887,
+          38438384,
+          38191573
+        ],
+        "frequencies": {
+          "C": {
+            "gnomadg_remaining": 0.4852,
+            "gnomadg_afr": 0.2387,
+            "sas": 0.4642,
+            "gnomadg_mid": 0.5944,
+            "eur": 0.5547,
+            "gnomadg": 0.4531,
+            "af": 0.3742,
+            "gnomadg_ami": 0.6355,
+            "gnomadg_amr": 0.4639,
+            "gnomadg_asj": 0.6527,
+            "gnomadg_fin": 0.4693,
+            "gnomadg_sas": 0.4882,
+            "gnomadg_nfe": 0.5796,
+            "amr": 0.5029,
+            "afr": 0.2163,
+            "eas": 0.2252,
+            "gnomadg_eas": 0.2212
+          }
+        },
+        "end": 87199579,
+        "phenotype_or_disease": 1
+      }
+    ]
+  },
+  {
+    "strand": 1,
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "id": "rs12149643",
+    "transcript_consequences": [
+      {
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "biotype": "protein_coding_CDS_not_defined",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "T",
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER"
+      }
+    ],
+    "input": "rs12149643",
+    "start": 87197893,
+    "colocated_variants": [
+      {
+        "start": 87197893,
+        "strand": 1,
+        "allele_string": "C/T",
+        "pubmed": [
+          35511193,
+          31666681,
+          31676860,
+          38438384
+        ],
+        "seq_region_name": "16",
+        "id": "rs12149643",
+        "phenotype_or_disease": 1,
+        "frequencies": {
+          "T": {
+            "gnomadg_eas": 0.2041,
+            "eas": 0.2063,
+            "amr": 0.5043,
+            "gnomadg_nfe": 0.5799,
+            "afr": 0.2352,
+            "gnomadg_sas": 0.4911,
+            "gnomadg_fin": 0.4786,
+            "gnomadg_asj": 0.6527,
+            "gnomadg_ami": 0.6374,
+            "gnomadg_amr": 0.4651,
+            "gnomadg_mid": 0.602,
+            "sas": 0.4642,
+            "gnomadg_afr": 0.25,
+            "af": 0.3758,
+            "eur": 0.5557,
+            "gnomadg": 0.4565,
+            "gnomadg_remaining": 0.4882
+          }
+        },
+        "end": 87197893
+      }
+    ],
+    "assembly_name": "GRCh38",
+    "allele_string": "C/T",
+    "end": 87197893
+  },
+  {
+    "id": "rs12920553",
+    "transcript_consequences": [
+      {
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "biotype": "protein_coding_CDS_not_defined",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "A",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1
+      },
+      {
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "biotype": "protein_coding_CDS_not_defined",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "T",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1
+      }
+    ],
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "strand": 1,
+    "start": 87193440,
+    "input": "rs12920553",
+    "colocated_variants": [
+      {
+        "pubmed": [
+          32318716,
+          35505052,
+          32540950,
+          31666681
+        ],
+        "seq_region_name": "16",
+        "id": "rs12920553",
+        "phenotype_or_disease": 1,
+        "frequencies": {
+          "T": {
+            "gnomadg_amr": 0.4678,
+            "gnomadg_ami": 0.6405,
+            "gnomadg_asj": 0.6507,
+            "gnomadg_remaining": 0.4919,
+            "eur": 0.5507,
+            "gnomadg": 0.4591,
+            "af": 0.3654,
+            "sas": 0.4622,
+            "gnomadg_afr": 0.2655,
+            "gnomadg_mid": 0.5993,
+            "afr": 0.2511,
+            "gnomadg_nfe": 0.5798,
+            "amr": 0.5043,
+            "gnomadg_eas": 0.1292,
+            "eas": 0.1409,
+            "gnomadg_fin": 0.4784,
+            "gnomadg_sas": 0.4873
+          },
+          "A": {
+            "gnomadg_eas": 0,
+            "gnomadg_asj": 0,
+            "gnomadg_nfe": 0,
+            "gnomadg_ami": 0,
+            "gnomadg_amr": 0,
+            "gnomadg_mid": 0,
+            "gnomadg_afr": 2.459e-05,
+            "gnomadg_sas": 0,
+            "gnomadg": 6.668e-06,
+            "gnomadg_remaining": 0,
+            "gnomadg_fin": 0
+          }
+        },
+        "end": 87193440,
+        "start": 87193440,
+        "strand": 1,
+        "allele_string": "G/A/T"
+      }
+    ],
+    "assembly_name": "GRCh38",
+    "end": 87193440,
+    "allele_string": "G/A/T"
+  },
+  {
+    "id": "rs4843552",
+    "transcript_consequences": [
+      {
+        "impact": "MODIFIER",
+        "strand": -1,
+        "gene_symbol_source": "HGNC",
+        "biotype": "protein_coding_CDS_not_defined",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "A",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033"
+      }
+    ],
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "strand": 1,
+    "start": 87199910,
+    "input": "rs4843552",
+    "colocated_variants": [
+      {
+        "end": 87199910,
+        "frequencies": {
+          "A": {
+            "gnomadg_fin": 0.4793,
+            "gnomadg_sas": 0.4898,
+            "amr": 0.5029,
+            "gnomadg_nfe": 0.5762,
+            "afr": 0.2655,
+            "gnomadg_eas": 0.2218,
+            "eas": 0.2232,
+            "gnomadg_remaining": 0.4976,
+            "gnomadg_mid": 0.5986,
+            "gnomadg_afr": 0.2858,
+            "sas": 0.4642,
+            "af": 0.3862,
+            "gnomadg": 0.4656,
+            "eur": 0.5517,
+            "gnomadg_ami": 0.6363,
+            "gnomadg_amr": 0.4672,
+            "gnomadg_asj": 0.6537
+          }
+        },
+        "phenotype_or_disease": 1,
+        "seq_region_name": "16",
+        "id": "rs4843552",
+        "pubmed": [
+          32318716,
+          31666681,
+          31676860
+        ],
+        "allele_string": "G/A",
+        "strand": 1,
+        "start": 87199910
+      }
+    ],
+    "assembly_name": "GRCh38",
+    "end": 87199910,
+    "allele_string": "G/A"
+  },
+  {
+    "colocated_variants": [
+      {
+        "allele_string": "G/A/C",
+        "start": 87191251,
+        "strand": 1,
+        "frequencies": {
+          "A": {
+            "gnomadg_sas": 0.4913,
+            "gnomadg_fin": 0.4741,
+            "gnomadg_eas": 0.1282,
+            "eas": 0.1419,
+            "afr": 0.2504,
+            "gnomadg_nfe": 0.5731,
+            "amr": 0.5014,
+            "af": 0.3644,
+            "eur": 0.5457,
+            "gnomadg": 0.4535,
+            "gnomadg_mid": 0.5959,
+            "sas": 0.4642,
+            "gnomadg_afr": 0.2639,
+            "gnomadg_remaining": 0.4848,
+            "gnomadg_asj": 0.6491,
+            "gnomadg_ami": 0.6385,
+            "gnomadg_amr": 0.4575
+          },
+          "C": {
+            "gnomadg_ami": 0,
+            "gnomadg_amr": 0,
+            "gnomadg_nfe": 1.472e-05,
+            "gnomadg_asj": 0,
+            "gnomadg_eas": 0,
+            "gnomadg_fin": 0,
+            "gnomadg_remaining": 0,
+            "gnomadg": 6.584e-06,
+            "gnomadg_sas": 0,
+            "gnomadg_afr": 0,
+            "gnomadg_mid": 0
+          }
+        },
+        "end": 87191251,
+        "phenotype_or_disease": 1,
+        "pubmed": [
+          35113692,
+          36893272,
+          38811844
+        ],
+        "id": "rs9308343",
+        "seq_region_name": "16"
+      }
+    ],
+    "input": "rs9308343",
+    "start": 87191251,
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "strand": 1,
+    "id": "rs9308343",
+    "transcript_consequences": [
+      {
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "biotype": "protein_coding_CDS_not_defined",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "A",
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER"
+      },
+      {
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "C",
+        "biotype": "protein_coding_CDS_not_defined",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "gene_symbol_source": "HGNC"
+      }
+    ],
+    "allele_string": "G/A/C",
+    "end": 87191251,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "assembly_name": "GRCh38",
+    "allele_string": "A/G",
+    "end": 87202476,
+    "regulatory_feature_consequences": [
+      {
+        "regulatory_feature_id": "ENSR16_CBMM4",
+        "impact": "MODIFIER",
+        "biotype": "enhancer",
+        "variant_allele": "G",
+        "consequence_terms": [
+          "regulatory_region_variant"
+        ]
+      }
+    ],
+    "input": "rs4240788",
+    "start": 87202476,
+    "strand": 1,
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "id": "rs4240788",
+    "transcript_consequences": [
+      {
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "variant_allele": "G",
+        "transcript_id": "ENST00000562840",
+        "biotype": "protein_coding_CDS_not_defined",
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER"
+      }
+    ],
+    "colocated_variants": [
+      {
+        "allele_string": "A/G",
+        "start": 87202476,
+        "strand": 1,
+        "frequencies": {
+          "G": {
+            "afr": 0.7867,
+            "gnomadg_nfe": 0.6517,
+            "amr": 0.5793,
+            "eas": 0.25,
+            "gnomadg_eas": 0.2532,
+            "gnomadg_fin": 0.5361,
+            "gnomadg_sas": 0.6207,
+            "gnomadg_ami": 0.6868,
+            "gnomadg_amr": 0.5646,
+            "gnomadg_asj": 0.748,
+            "gnomadg_remaining": 0.6382,
+            "gnomadg": 0.6504,
+            "eur": 0.6213,
+            "af": 0.5789,
+            "sas": 0.593,
+            "gnomadg_afr": 0.7534,
+            "gnomadg_mid": 0.7055
+          }
+        },
+        "end": 87202476,
+        "phenotype_or_disease": 1,
+        "pubmed": [
+          35113692
+        ],
+        "id": "rs4240788",
+        "seq_region_name": "16"
+      }
+    ]
+  },
+  {
+    "most_severe_consequence": "intron_variant",
+    "strand": 1,
+    "seq_region_name": "16",
+    "id": "rs9933149",
+    "transcript_consequences": [
+      {
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER",
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "variant_allele": "A",
+        "transcript_id": "ENST00000562840",
+        "biotype": "protein_coding_CDS_not_defined"
+      },
+      {
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "variant_allele": "C",
+        "transcript_id": "ENST00000562840",
+        "biotype": "protein_coding_CDS_not_defined",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1
+      }
+    ],
+    "input": "rs9933149",
+    "start": 87192600,
+    "colocated_variants": [
+      {
+        "pubmed": [
+          30519892,
+          32824737,
+          31666681,
+          37164063,
+          38890310,
+          40167904
+        ],
+        "id": "rs9933149",
+        "seq_region_name": "16",
+        "phenotype_or_disease": 1,
+        "end": 87192600,
+        "frequencies": {
+          "C": {
+            "gnomadg_ami": 0.6634,
+            "gnomadg_amr": 0.5101,
+            "gnomadg_asj": 0.67,
+            "gnomadg_remaining": 0.536,
+            "af": 0.4287,
+            "gnomadg": 0.5087,
+            "eur": 0.5915,
+            "gnomadg_mid": 0.6361,
+            "gnomadg_afr": 0.3378,
+            "sas": 0.5787,
+            "afr": 0.3359,
+            "amr": 0.5418,
+            "gnomadg_nfe": 0.6192,
+            "eas": 0.1647,
+            "gnomadg_eas": 0.1546,
+            "gnomadg_fin": 0.5243,
+            "gnomadg_sas": 0.5986
+          }
+        },
+        "strand": 1,
+        "start": 87192600,
+        "allele_string": "T/A/C"
+      }
+    ],
+    "assembly_name": "GRCh38",
+    "allele_string": "T/A/C",
+    "end": 87192600
+  },
+  {
+    "assembly_name": "GRCh38",
+    "regulatory_feature_consequences": [
+      {
+        "variant_allele": "T",
+        "biotype": "enhancer",
+        "impact": "MODIFIER",
+        "consequence_terms": [
+          "regulatory_region_variant"
+        ],
+        "regulatory_feature_id": "ENSR16_939LHT"
+      }
+    ],
+    "end": 87201106,
+    "allele_string": "C/T",
+    "start": 87201106,
+    "input": "rs12711474",
+    "transcript_consequences": [
+      {
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "T",
+        "transcript_id": "ENST00000562840",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "gene_symbol_source": "HGNC"
+      }
+    ],
+    "id": "rs12711474",
+    "strand": 1,
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "colocated_variants": [
+      {
+        "id": "rs12711474",
+        "seq_region_name": "16",
+        "frequencies": {
+          "T": {
+            "gnomadg_asj": 0.748,
+            "gnomadg_amr": 0.5617,
+            "gnomadg_ami": 0.6875,
+            "af": 0.5653,
+            "eur": 0.6213,
+            "gnomadg": 0.6383,
+            "gnomadg_mid": 0.7075,
+            "sas": 0.592,
+            "gnomadg_afr": 0.7112,
+            "gnomadg_remaining": 0.6326,
+            "gnomadg_eas": 0.2527,
+            "eas": 0.25,
+            "afr": 0.739,
+            "gnomadg_nfe": 0.6512,
+            "amr": 0.5735,
+            "gnomadg_sas": 0.6206,
+            "gnomadg_fin": 0.5346
+          }
+        },
+        "end": 87201106,
+        "start": 87201106,
+        "strand": 1,
+        "allele_string": "C/T"
+      }
+    ]
+  },
+  {
+    "assembly_name": "GRCh38",
+    "allele_string": "C/A/G",
+    "regulatory_feature_consequences": [
+      {
+        "consequence_terms": [
+          "regulatory_region_variant"
+        ],
+        "variant_allele": "A",
+        "biotype": "enhancer",
+        "impact": "MODIFIER",
+        "regulatory_feature_id": "ENSR16_CBMM4"
+      },
+      {
+        "impact": "MODIFIER",
+        "biotype": "enhancer",
+        "variant_allele": "G",
+        "consequence_terms": [
+          "regulatory_region_variant"
+        ],
+        "regulatory_feature_id": "ENSR16_CBMM4"
+      }
+    ],
+    "end": 87203491,
+    "strand": 1,
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "id": "rs8055080",
+    "transcript_consequences": [
+      {
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "A",
+        "transcript_id": "ENST00000562840",
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER"
+      },
+      {
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "variant_allele": "G",
+        "transcript_id": "ENST00000562840",
+        "biotype": "protein_coding_CDS_not_defined",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1
+      }
+    ],
+    "input": "rs8055080",
+    "start": 87203491,
+    "colocated_variants": [
+      {
+        "allele_string": "C/A/G",
+        "start": 87203491,
+        "strand": 1,
+        "frequencies": {
+          "A": {
+            "gnomadg_remaining": 0.6256,
+            "gnomadg_afr": 0.6562,
+            "sas": 0.59,
+            "gnomadg_mid": 0.7041,
+            "gnomadg": 0.623,
+            "eur": 0.6213,
+            "af": 0.5485,
+            "gnomadg_amr": 0.5583,
+            "gnomadg_ami": 0.6879,
+            "gnomadg_asj": 0.7477,
+            "gnomadg_fin": 0.5358,
+            "gnomadg_sas": 0.6142,
+            "gnomadg_nfe": 0.6518,
+            "amr": 0.5764,
+            "afr": 0.6762,
+            "gnomadg_eas": 0.2516,
+            "eas": 0.249
+          },
+          "G": {
+            "gnomadg_fin": 0,
+            "gnomadg_remaining": 0,
+            "gnomadg_mid": 0,
+            "gnomadg_afr": 2.41e-05,
+            "gnomadg": 1.973e-05,
+            "gnomadg_sas": 0,
+            "gnomadg_nfe": 0,
+            "gnomadg_amr": 0.0001309,
+            "gnomadg_ami": 0,
+            "gnomadg_eas": 0,
+            "gnomadg_asj": 0
+          }
+        },
+        "end": 87203491,
+        "id": "rs8055080",
+        "seq_region_name": "16"
+      }
+    ]
+  },
+  {
+    "id": "rs4240787",
+    "transcript_consequences": [
+      {
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "variant_allele": "C",
+        "transcript_id": "ENST00000562840",
+        "biotype": "protein_coding_CDS_not_defined",
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER"
+      },
+      {
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "variant_allele": "G",
+        "transcript_id": "ENST00000562840",
+        "biotype": "protein_coding_CDS_not_defined",
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER"
+      },
+      {
+        "strand": -1,
+        "impact": "MODIFIER",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "T",
+        "biotype": "protein_coding_CDS_not_defined",
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456"
+      }
+    ],
+    "seq_region_name": "16",
+    "most_severe_consequence": "intron_variant",
+    "strand": 1,
+    "start": 87202725,
+    "input": "rs4240787",
+    "colocated_variants": [
+      {
+        "allele_string": "A/C/G/T",
+        "start": 87202725,
+        "strand": 1,
+        "frequencies": {
+          "C": {
+            "gnomadg": 6.583e-06,
+            "gnomadg_sas": 0,
+            "gnomadg_mid": 0,
+            "gnomadg_afr": 0,
+            "gnomadg_remaining": 0,
+            "gnomadg_fin": 0,
+            "gnomadg_asj": 0,
+            "gnomadg_eas": 0,
+            "gnomadg_ami": 0,
+            "gnomadg_amr": 0,
+            "gnomadg_nfe": 1.471e-05
+          },
+          "G": {
+            "gnomadg_fin": 0.4868,
+            "gnomadg_sas": 0.5079,
+            "amr": 0.5288,
+            "gnomadg_nfe": 0.6125,
+            "afr": 0.525,
+            "eas": 0.2252,
+            "gnomadg_eas": 0.2226,
+            "gnomadg_remaining": 0.5634,
+            "gnomadg_mid": 0.6599,
+            "sas": 0.4744,
+            "gnomadg_afr": 0.5314,
+            "af": 0.4669,
+            "gnomadg": 0.5567,
+            "eur": 0.5825,
+            "gnomadg_ami": 0.6513,
+            "gnomadg_amr": 0.5057,
+            "gnomadg_asj": 0.7298
+          }
+        },
+        "end": 87202725,
+        "phenotype_or_disease": 1,
+        "pubmed": [
+          34006833
+        ],
+        "id": "rs4240787",
+        "seq_region_name": "16"
+      }
+    ],
+    "assembly_name": "GRCh38",
+    "end": 87202725,
+    "regulatory_feature_consequences": [
+      {
+        "regulatory_feature_id": "ENSR16_CBMM4",
+        "variant_allele": "C",
+        "biotype": "enhancer",
+        "impact": "MODIFIER",
+        "consequence_terms": [
+          "regulatory_region_variant"
+        ]
+      },
+      {
+        "regulatory_feature_id": "ENSR16_CBMM4",
+        "consequence_terms": [
+          "regulatory_region_variant"
+        ],
+        "biotype": "enhancer",
+        "impact": "MODIFIER",
+        "variant_allele": "G"
+      },
+      {
+        "regulatory_feature_id": "ENSR16_CBMM4",
+        "variant_allele": "T",
+        "impact": "MODIFIER",
+        "biotype": "enhancer",
+        "consequence_terms": [
+          "regulatory_region_variant"
+        ]
+      }
+    ],
+    "allele_string": "A/C/G/T"
+  },
+  {
+    "start": 87191495,
+    "input": "rs9937293",
+    "transcript_consequences": [
+      {
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "A",
+        "transcript_id": "ENST00000562840",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1
+      }
+    ],
+    "id": "rs9937293",
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "strand": 1,
+    "colocated_variants": [
+      {
+        "phenotype_or_disease": 1,
+        "frequencies": {
+          "A": {
+            "gnomadg_fin": 0.5246,
+            "gnomadg_sas": 0.5952,
+            "afr": 0.3351,
+            "amr": 0.5418,
+            "gnomadg_nfe": 0.6181,
+            "gnomadg_eas": 0.1553,
+            "eas": 0.1647,
+            "gnomadg_remaining": 0.5355,
+            "gnomadg": 0.508,
+            "eur": 0.5915,
+            "af": 0.4285,
+            "sas": 0.5787,
+            "gnomadg_afr": 0.3372,
+            "gnomadg_mid": 0.6361,
+            "gnomadg_amr": 0.509,
+            "gnomadg_ami": 0.6641,
+            "gnomadg_asj": 0.6695
+          }
+        },
+        "end": 87191495,
+        "seq_region_name": "16",
+        "id": "rs9937293",
+        "pubmed": [
+          30258056,
+          32963231,
+          32665545,
+          31666681
+        ],
+        "allele_string": "G/A",
+        "start": 87191495,
+        "strand": 1
+      }
+    ],
+    "assembly_name": "GRCh38",
+    "end": 87191495,
+    "allele_string": "G/A"
+  },
+  {
+    "end": 87191533,
+    "allele_string": "C/A/G/T",
+    "assembly_name": "GRCh38",
+    "colocated_variants": [
+      {
+        "id": "rs4843227",
+        "seq_region_name": "16",
+        "pubmed": [
+          33875891,
+          37236919,
+          32963231,
+          36800424,
+          31666681,
+          37164063
+        ],
+        "phenotype_or_disease": 1,
+        "frequencies": {
+          "T": {
+            "gnomadg_ami": 0.6634,
+            "gnomadg_amr": 0.5072,
+            "gnomadg_asj": 0.6684,
+            "gnomadg_remaining": 0.5351,
+            "sas": 0.5787,
+            "gnomadg_afr": 0.3366,
+            "gnomadg_mid": 0.6361,
+            "eur": 0.5905,
+            "gnomadg": 0.5071,
+            "af": 0.4281,
+            "amr": 0.5403,
+            "gnomadg_nfe": 0.6173,
+            "afr": 0.3351,
+            "gnomadg_eas": 0.155,
+            "eas": 0.1647,
+            "gnomadg_fin": 0.5238,
+            "gnomadg_sas": 0.5951
+          }
+        },
+        "end": 87191533,
+        "start": 87191533,
+        "strand": 1,
+        "allele_string": "C/A/G/T"
+      }
+    ],
+    "id": "rs4843227",
+    "transcript_consequences": [
+      {
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "A",
+        "biotype": "protein_coding_CDS_not_defined",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1
+      },
+      {
+        "strand": -1,
+        "impact": "MODIFIER",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "G",
+        "biotype": "protein_coding_CDS_not_defined",
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456"
+      },
+      {
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "variant_allele": "T",
+        "transcript_id": "ENST00000562840",
+        "biotype": "protein_coding_CDS_not_defined",
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "strand": -1,
+        "impact": "MODIFIER",
+        "gene_symbol_source": "HGNC"
+      }
+    ],
+    "strand": 1,
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "start": 87191533,
+    "input": "rs4843227"
+  },
+  {
+    "colocated_variants": [
+      {
+        "start": 87191537,
+        "strand": 1,
+        "allele_string": "A/C/G/T",
+        "id": "rs4843560",
+        "seq_region_name": "16",
+        "pubmed": [
+          34560273,
+          33875891,
+          32665545,
+          31666681,
+          31676860,
+          34910505,
+          37164063
+        ],
+        "phenotype_or_disease": 1,
+        "frequencies": {
+          "C": {
+            "gnomadg_fin": 0,
+            "gnomadg_remaining": 0,
+            "gnomadg_afr": 0,
+            "gnomadg_mid": 0,
+            "gnomadg": 6.6e-06,
+            "gnomadg_sas": 0,
+            "gnomadg_nfe": 1.475e-05,
+            "gnomadg_ami": 0,
+            "gnomadg_amr": 0,
+            "gnomadg_eas": 0,
+            "gnomadg_asj": 0
+          },
+          "G": {
+            "gnomadg_remaining": 0.5355,
+            "af": 0.4283,
+            "gnomadg": 0.5071,
+            "eur": 0.5905,
+            "gnomadg_mid": 0.6361,
+            "gnomadg_afr": 0.3365,
+            "sas": 0.5787,
+            "gnomadg_amr": 0.5072,
+            "gnomadg_ami": 0.6634,
+            "gnomadg_asj": 0.6688,
+            "gnomadg_fin": 0.5234,
+            "gnomadg_sas": 0.595,
+            "afr": 0.3359,
+            "gnomadg_nfe": 0.6174,
+            "amr": 0.5403,
+            "gnomadg_eas": 0.1549,
+            "eas": 0.1647
+          },
+          "T": {
+            "gnomadg_asj": 0,
+            "gnomadg_eas": 0,
+            "gnomadg_ami": 0,
+            "gnomadg_amr": 0,
+            "gnomadg_nfe": 0,
+            "gnomadg": 6.6e-06,
+            "gnomadg_sas": 0,
+            "gnomadg_afr": 2.425e-05,
+            "gnomadg_mid": 0,
+            "gnomadg_fin": 0,
+            "gnomadg_remaining": 0
+          }
+        },
+        "end": 87191537
+      }
+    ],
+    "transcript_consequences": [
+      {
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "biotype": "protein_coding_CDS_not_defined",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "C",
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER"
+      },
+      {
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "G",
+        "biotype": "protein_coding_CDS_not_defined",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "gene_symbol_source": "HGNC"
+      },
+      {
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "biotype": "protein_coding_CDS_not_defined",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "T",
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER"
+      }
+    ],
+    "id": "rs4843560",
+    "strand": 1,
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "start": 87191537,
+    "input": "rs4843560",
+    "end": 87191537,
+    "allele_string": "A/C/G/T",
+    "assembly_name": "GRCh38"
+  },
+  {
+    "input": "rs4843226",
+    "start": 87191658,
+    "strand": 1,
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "transcript_consequences": [
+      {
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER",
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "T",
+        "biotype": "protein_coding_CDS_not_defined"
+      }
+    ],
+    "id": "rs4843226",
+    "colocated_variants": [
+      {
+        "allele_string": "C/T",
+        "start": 87191658,
+        "strand": 1,
+        "frequencies": {
+          "T": {
+            "gnomadg_amr": 0.5084,
+            "gnomadg_ami": 0.6634,
+            "gnomadg_asj": 0.6683,
+            "gnomadg_remaining": 0.5365,
+            "gnomadg_afr": 0.3369,
+            "sas": 0.5787,
+            "gnomadg_mid": 0.6361,
+            "gnomadg": 0.508,
+            "eur": 0.5905,
+            "af": 0.4283,
+            "amr": 0.5403,
+            "gnomadg_nfe": 0.6181,
+            "afr": 0.3359,
+            "eas": 0.1647,
+            "gnomadg_eas": 0.155,
+            "gnomadg_fin": 0.5253,
+            "gnomadg_sas": 0.5958
+          }
+        },
+        "end": 87191658,
+        "phenotype_or_disease": 1,
+        "id": "rs4843226",
+        "seq_region_name": "16",
+        "pubmed": [
+          35505052,
+          39276058
+        ]
+      }
+    ],
+    "assembly_name": "GRCh38",
+    "allele_string": "C/T",
+    "end": 87191658
+  },
+  {
+    "colocated_variants": [
+      {
+        "allele_string": "G/A",
+        "strand": 1,
+        "start": 87191036,
+        "end": 87191036,
+        "frequencies": {
+          "A": {
+            "gnomadg_sas": 0.5959,
+            "gnomadg_fin": 0.5252,
+            "gnomadg_eas": 0.1553,
+            "eas": 0.1647,
+            "afr": 0.3351,
+            "amr": 0.5432,
+            "gnomadg_nfe": 0.6184,
+            "eur": 0.5905,
+            "gnomadg": 0.5081,
+            "af": 0.4285,
+            "sas": 0.5787,
+            "gnomadg_afr": 0.3372,
+            "gnomadg_mid": 0.637,
+            "gnomadg_remaining": 0.5365,
+            "gnomadg_asj": 0.6689,
+            "gnomadg_ami": 0.6634,
+            "gnomadg_amr": 0.5091
+          }
+        },
+        "seq_region_name": "16",
+        "id": "rs9308341"
+      }
+    ],
+    "transcript_consequences": [
+      {
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "A",
+        "transcript_id": "ENST00000562840",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ]
+      }
+    ],
+    "id": "rs9308341",
+    "strand": 1,
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "start": 87191036,
+    "input": "rs9308341",
+    "end": 87191036,
+    "allele_string": "G/A",
+    "assembly_name": "GRCh38"
+  },
+  {
+    "colocated_variants": [
+      {
+        "pubmed": [
+          32193296,
+          33821002,
+          31666681,
+          38580839,
+          39141892,
+          38890310,
+          39528825,
+          40266017
+        ],
+        "seq_region_name": "16",
+        "id": "rs56023709",
+        "phenotype_or_disease": 1,
+        "end": 87195738,
+        "frequencies": {
+          "C": {
+            "gnomadg_mid": 0.6395,
+            "sas": 0.5808,
+            "gnomadg_afr": 0.3356,
+            "af": 0.4295,
+            "gnomadg": 0.5082,
+            "eur": 0.5915,
+            "gnomadg_remaining": 0.5341,
+            "gnomadg_asj": 0.6692,
+            "gnomadg_amr": 0.5094,
+            "gnomadg_ami": 0.6648,
+            "gnomadg_sas": 0.6008,
+            "gnomadg_fin": 0.528,
+            "gnomadg_eas": 0.1567,
+            "eas": 0.1657,
+            "gnomadg_nfe": 0.6187,
+            "amr": 0.5418,
+            "afr": 0.3366
+          }
+        },
+        "strand": 1,
+        "start": 87195738,
+        "allele_string": "A/C/G"
+      }
+    ],
+    "start": 87195738,
+    "input": "rs56023709",
+    "transcript_consequences": [
+      {
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER",
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "variant_allele": "C",
+        "transcript_id": "ENST00000562840",
+        "biotype": "protein_coding_CDS_not_defined"
+      },
+      {
+        "strand": -1,
+        "impact": "MODIFIER",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "biotype": "protein_coding_CDS_not_defined",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "G",
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033"
+      }
+    ],
+    "id": "rs56023709",
+    "most_severe_consequence": "intron_variant",
+    "strand": 1,
+    "seq_region_name": "16",
+    "end": 87195738,
+    "allele_string": "A/C/G",
+    "assembly_name": "GRCh38"
+  },
+  {
+    "start": 87190687,
+    "input": "rs12711473",
+    "transcript_consequences": [
+      {
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "C",
+        "transcript_id": "ENST00000562840",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "gene_symbol_source": "HGNC"
+      },
+      {
+        "biotype": "protein_coding_CDS_not_defined",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "G",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "gene_symbol_source": "HGNC"
+      }
+    ],
+    "id": "rs12711473",
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "strand": 1,
+    "colocated_variants": [
+      {
+        "allele_string": "A/C/G",
+        "strand": 1,
+        "start": 87190687,
+        "end": 87190687,
+        "frequencies": {
+          "C": {
+            "gnomadg_eas": 0,
+            "gnomadg_asj": 0,
+            "gnomadg_nfe": 2.942e-05,
+            "gnomadg_ami": 0,
+            "gnomadg_amr": 0,
+            "gnomadg_mid": 0,
+            "gnomadg_afr": 4.831e-05,
+            "gnomadg_sas": 0,
+            "gnomadg": 2.631e-05,
+            "gnomadg_remaining": 0,
+            "gnomadg_fin": 0
+          },
+          "G": {
+            "gnomadg_remaining": 0.5436,
+            "af": 0.4467,
+            "eur": 0.5915,
+            "gnomadg": 0.5151,
+            "gnomadg_mid": 0.6361,
+            "gnomadg_afr": 0.339,
+            "sas": 0.5818,
+            "gnomadg_ami": 0.6637,
+            "gnomadg_amr": 0.542,
+            "gnomadg_asj": 0.6695,
+            "gnomadg_fin": 0.524,
+            "gnomadg_sas": 0.5998,
+            "afr": 0.3351,
+            "amr": 0.5735,
+            "gnomadg_nfe": 0.6198,
+            "gnomadg_eas": 0.2269,
+            "eas": 0.2302
+          }
+        },
+        "phenotype_or_disease": 1,
+        "pubmed": [
+          36800424,
+          31666681,
+          37164063,
+          38811844
+        ],
+        "seq_region_name": "16",
+        "id": "rs12711473"
+      }
+    ],
+    "assembly_name": "GRCh38",
+    "end": 87190687,
+    "allele_string": "A/C/G"
+  },
+  {
+    "colocated_variants": [
+      {
+        "phenotype_or_disease": 1,
+        "frequencies": {
+          "A": {
+            "gnomadg_remaining": 0.537,
+            "gnomadg": 0.5081,
+            "eur": 0.5905,
+            "af": 0.4281,
+            "sas": 0.5787,
+            "gnomadg_afr": 0.3374,
+            "gnomadg_mid": 0.6361,
+            "gnomadg_amr": 0.509,
+            "gnomadg_ami": 0.6623,
+            "gnomadg_asj": 0.6692,
+            "gnomadg_fin": 0.5246,
+            "gnomadg_sas": 0.5965,
+            "afr": 0.3351,
+            "amr": 0.5403,
+            "gnomadg_nfe": 0.6183,
+            "gnomadg_eas": 0.1534,
+            "eas": 0.1647
+          }
+        },
+        "end": 87191825,
+        "seq_region_name": "16",
+        "id": "rs4843559",
+        "pubmed": [
+          34560273,
+          33875891,
+          36066633,
+          34910505
+        ],
+        "allele_string": "G/A",
+        "start": 87191825,
+        "strand": 1
+      }
+    ],
+    "input": "rs4843559",
+    "start": 87191825,
+    "most_severe_consequence": "intron_variant",
+    "strand": 1,
+    "seq_region_name": "16",
+    "transcript_consequences": [
+      {
+        "impact": "MODIFIER",
+        "strand": -1,
+        "gene_symbol_source": "HGNC",
+        "variant_allele": "A",
+        "transcript_id": "ENST00000562840",
+        "biotype": "protein_coding_CDS_not_defined",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456"
+      }
+    ],
+    "id": "rs4843559",
+    "allele_string": "G/A",
+    "end": 87191825,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "input": "rs4843558",
+    "start": 87191867,
+    "strand": 1,
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "transcript_consequences": [
+      {
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "A",
+        "transcript_id": "ENST00000562840",
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER"
+      }
+    ],
+    "id": "rs4843558",
+    "colocated_variants": [
+      {
+        "strand": 1,
+        "start": 87191867,
+        "allele_string": "G/A",
+        "id": "rs4843558",
+        "seq_region_name": "16",
+        "pubmed": [
+          33875891,
+          35164939,
+          36893272
+        ],
+        "end": 87191867,
+        "frequencies": {
+          "A": {
+            "gnomadg_afr": 0.3362,
+            "sas": 0.5798,
+            "gnomadg_mid": 0.6361,
+            "eur": 0.5905,
+            "gnomadg": 0.5076,
+            "af": 0.4285,
+            "gnomadg_remaining": 0.5351,
+            "gnomadg_asj": 0.6691,
+            "gnomadg_amr": 0.5086,
+            "gnomadg_ami": 0.6626,
+            "gnomadg_sas": 0.595,
+            "gnomadg_fin": 0.5241,
+            "eas": 0.1647,
+            "gnomadg_eas": 0.1539,
+            "amr": 0.5418,
+            "gnomadg_nfe": 0.6183,
+            "afr": 0.3351
+          }
+        },
+        "phenotype_or_disease": 1
+      }
+    ],
+    "assembly_name": "GRCh38",
+    "allele_string": "G/A",
+    "end": 87191867
+  },
+  {
+    "assembly_name": "GRCh38",
+    "end": 87190526,
+    "allele_string": "A/C",
+    "start": 87190526,
+    "input": "rs12711472",
+    "transcript_consequences": [
+      {
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER",
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "C",
+        "transcript_id": "ENST00000562840"
+      }
+    ],
+    "id": "rs12711472",
+    "strand": 1,
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "colocated_variants": [
+      {
+        "pubmed": [
+          35113692,
+          22407726,
+          32665545,
+          34910505
+        ],
+        "id": "rs12711472",
+        "seq_region_name": "16",
+        "frequencies": {
+          "C": {
+            "gnomadg_sas": 0.5965,
+            "gnomadg_fin": 0.5239,
+            "eas": 0.1647,
+            "gnomadg_eas": 0.1555,
+            "amr": 0.5447,
+            "gnomadg_nfe": 0.6193,
+            "afr": 0.3495,
+            "sas": 0.5787,
+            "gnomadg_afr": 0.3611,
+            "gnomadg_mid": 0.637,
+            "eur": 0.5915,
+            "gnomadg": 0.5154,
+            "af": 0.4327,
+            "gnomadg_remaining": 0.5432,
+            "gnomadg_asj": 0.6694,
+            "gnomadg_amr": 0.5125,
+            "gnomadg_ami": 0.6648
+          }
+        },
+        "end": 87190526,
+        "phenotype_or_disease": 1,
+        "start": 87190526,
+        "strand": 1,
+        "allele_string": "A/C"
+      }
+    ]
+  },
+  {
+    "assembly_name": "GRCh38",
+    "allele_string": "G/A",
+    "end": 87204257,
+    "input": "rs4843549",
+    "start": 87204257,
+    "strand": 1,
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "id": "rs4843549",
+    "transcript_consequences": [
+      {
+        "impact": "MODIFIER",
+        "strand": -1,
+        "gene_symbol_source": "HGNC",
+        "variant_allele": "A",
+        "transcript_id": "ENST00000562840",
+        "biotype": "protein_coding_CDS_not_defined",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456"
+      }
+    ],
+    "colocated_variants": [
+      {
+        "phenotype_or_disease": 1,
+        "frequencies": {
+          "A": {
+            "gnomadg_fin": 0.4863,
+            "gnomadg_sas": 0.4774,
+            "afr": 0.2874,
+            "gnomadg_nfe": 0.6091,
+            "amr": 0.513,
+            "gnomadg_eas": 0.2231,
+            "eas": 0.2232,
+            "gnomadg_remaining": 0.5341,
+            "gnomadg": 0.4984,
+            "eur": 0.5805,
+            "af": 0.3944,
+            "sas": 0.4397,
+            "gnomadg_afr": 0.337,
+            "gnomadg_mid": 0.619,
+            "gnomadg_amr": 0.4832,
+            "gnomadg_ami": 0.6597,
+            "gnomadg_asj": 0.7249
+          }
+        },
+        "end": 87204257,
+        "pubmed": [
+          30519892,
+          22407726,
+          31666681
+        ],
+        "seq_region_name": "16",
+        "id": "rs4843549",
+        "allele_string": "G/A",
+        "start": 87204257,
+        "strand": 1
+      }
+    ]
+  },
+  {
+    "colocated_variants": [
+      {
+        "allele_string": "C/A/G/T",
+        "start": 87198777,
+        "strand": 1,
+        "phenotype_or_disease": 1,
+        "frequencies": {
+          "T": {
+            "gnomadg_ami": 0.6619,
+            "gnomadg_amr": 0.4989,
+            "gnomadg_asj": 0.7278,
+            "gnomadg_remaining": 0.5554,
+            "gnomadg_afr": 0.4375,
+            "sas": 0.4652,
+            "gnomadg_mid": 0.6633,
+            "eur": 0.5905,
+            "gnomadg": 0.534,
+            "af": 0.4449,
+            "gnomadg_nfe": 0.6205,
+            "amr": 0.5317,
+            "afr": 0.444,
+            "gnomadg_eas": 0.2222,
+            "eas": 0.2212,
+            "gnomadg_fin": 0.4936,
+            "gnomadg_sas": 0.4929
+          }
+        },
+        "end": 87198777,
+        "seq_region_name": "16",
+        "id": "rs4843554",
+        "pubmed": [
+          33875891
+        ]
+      }
+    ],
+    "transcript_consequences": [
+      {
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "variant_allele": "A",
+        "transcript_id": "ENST00000562840",
+        "biotype": "protein_coding_CDS_not_defined",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ]
+      },
+      {
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "variant_allele": "G",
+        "transcript_id": "ENST00000562840",
+        "biotype": "protein_coding_CDS_not_defined",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ]
+      },
+      {
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER",
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "T",
+        "biotype": "protein_coding_CDS_not_defined"
+      }
+    ],
+    "id": "rs4843554",
+    "most_severe_consequence": "intron_variant",
+    "strand": 1,
+    "seq_region_name": "16",
+    "start": 87198777,
+    "input": "rs4843554",
+    "regulatory_feature_consequences": [
+      {
+        "regulatory_feature_id": "ENSR16_BMB8J",
+        "consequence_terms": [
+          "regulatory_region_variant"
+        ],
+        "variant_allele": "A",
+        "impact": "MODIFIER",
+        "biotype": "enhancer"
+      },
+      {
+        "biotype": "enhancer",
+        "impact": "MODIFIER",
+        "variant_allele": "G",
+        "consequence_terms": [
+          "regulatory_region_variant"
+        ],
+        "regulatory_feature_id": "ENSR16_BMB8J"
+      },
+      {
+        "consequence_terms": [
+          "regulatory_region_variant"
+        ],
+        "variant_allele": "T",
+        "biotype": "enhancer",
+        "impact": "MODIFIER",
+        "regulatory_feature_id": "ENSR16_BMB8J"
+      }
+    ],
+    "end": 87198777,
+    "allele_string": "C/A/G/T",
+    "assembly_name": "GRCh38"
+  },
+  {
+    "input": "rs35408318",
+    "start": 87211051,
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "strand": 1,
+    "id": "rs35408318",
+    "transcript_consequences": [
+      {
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "G",
+        "transcript_id": "ENST00000562840",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "gene_symbol_source": "HGNC"
+      },
+      {
+        "impact": "MODIFIER",
+        "strand": 1,
+        "gene_id": "ENSG00000261651",
+        "transcript_id": "ENST00000562873",
+        "variant_allele": "G",
+        "biotype": "lncRNA",
+        "consequence_terms": [
+          "upstream_gene_variant"
+        ],
+        "distance": 4864
+      },
+      {
+        "impact": "MODIFIER",
+        "strand": 1,
+        "gene_id": "ENSG00000261095",
+        "biotype": "lncRNA",
+        "transcript_id": "ENST00000566092",
+        "variant_allele": "G",
+        "consequence_terms": [
+          "upstream_gene_variant"
+        ],
+        "distance": 1071
+      }
+    ],
+    "colocated_variants": [
+      {
+        "seq_region_name": "16",
+        "id": "rs35408318",
+        "frequencies": {
+          "G": {
+            "gnomadg_sas": 0.5704,
+            "gnomadg_fin": 0.4846,
+            "gnomadg_eas": 0.2583,
+            "eas": 0.256,
+            "gnomadg_nfe": 0.6149,
+            "amr": 0.5418,
+            "afr": 0.2995,
+            "gnomadg_mid": 0.6096,
+            "sas": 0.5542,
+            "gnomadg_afr": 0.3267,
+            "af": 0.4305,
+            "gnomadg": 0.5022,
+            "eur": 0.5805,
+            "gnomadg_remaining": 0.5275,
+            "gnomadg_asj": 0.6315,
+            "gnomadg_amr": 0.5062,
+            "gnomadg_ami": 0.6184
+          }
+        },
+        "end": 87211051,
+        "start": 87211051,
+        "strand": 1,
+        "allele_string": "A/G"
+      }
+    ],
+    "assembly_name": "GRCh38",
+    "allele_string": "A/G",
+    "end": 87211051
+  },
+  {
+    "id": "rs6540017",
+    "transcript_consequences": [
+      {
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "A",
+        "transcript_id": "ENST00000562840",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1
+      },
+      {
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "variant_allele": "T",
+        "transcript_id": "ENST00000562840",
+        "biotype": "protein_coding_CDS_not_defined",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ]
+      }
+    ],
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "strand": 1,
+    "start": 87196782,
+    "input": "rs6540017",
+    "colocated_variants": [
+      {
+        "frequencies": {
+          "A": {
+            "gnomadg_sas": 0.6175,
+            "gnomadg_fin": 0.542,
+            "gnomadg_eas": 0.1545,
+            "eas": 0.1627,
+            "amr": 0.5908,
+            "gnomadg_nfe": 0.6633,
+            "afr": 0.823,
+            "gnomadg_mid": 0.7158,
+            "sas": 0.591,
+            "gnomadg_afr": 0.7908,
+            "af": 0.5749,
+            "eur": 0.6352,
+            "gnomadg": 0.6638,
+            "gnomadg_remaining": 0.6505,
+            "gnomadg_asj": 0.7447,
+            "gnomadg_ami": 0.6879,
+            "gnomadg_amr": 0.5724
+          }
+        },
+        "end": 87196782,
+        "pubmed": [
+          39349954
+        ],
+        "seq_region_name": "16",
+        "id": "rs6540017",
+        "allele_string": "C/A/T",
+        "start": 87196782,
+        "strand": 1
+      }
+    ],
+    "assembly_name": "GRCh38",
+    "end": 87196782,
+    "allele_string": "C/A/T"
+  },
+  {
+    "colocated_variants": [
+      {
+        "start": 87224482,
+        "strand": 1,
+        "allele_string": "A/C/G",
+        "id": "rs11640181",
+        "seq_region_name": "16",
+        "pubmed": [
+          35113692,
+          22407726,
+          38438384
+        ],
+        "frequencies": {
+          "G": {
+            "gnomadg_fin": 0.4861,
+            "gnomadg_sas": 0.5705,
+            "afr": 0.5832,
+            "gnomadg_nfe": 0.6167,
+            "amr": 0.5634,
+            "gnomadg_eas": 0.253,
+            "eas": 0.255,
+            "gnomadg_remaining": 0.5818,
+            "af": 0.5088,
+            "gnomadg": 0.5766,
+            "eur": 0.5825,
+            "gnomadg_mid": 0.6507,
+            "gnomadg_afr": 0.5816,
+            "sas": 0.5552,
+            "gnomadg_amr": 0.5344,
+            "gnomadg_ami": 0.6264,
+            "gnomadg_asj": 0.6612
+          }
+        },
+        "end": 87224482,
+        "phenotype_or_disease": 1
+      }
+    ],
+    "input": "rs11640181",
+    "start": 87224482,
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "strand": 1,
+    "transcript_consequences": [
+      {
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "biotype": "protein_coding_CDS_not_defined",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "C",
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "strand": -1,
+        "impact": "MODIFIER",
+        "gene_symbol_source": "HGNC"
+      },
+      {
+        "strand": -1,
+        "impact": "MODIFIER",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "variant_allele": "G",
+        "transcript_id": "ENST00000562840",
+        "biotype": "protein_coding_CDS_not_defined",
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456"
+      },
+      {
+        "strand": 1,
+        "impact": "MODIFIER",
+        "gene_id": "ENSG00000261095",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "variant_allele": "C",
+        "transcript_id": "ENST00000566092",
+        "biotype": "lncRNA"
+      },
+      {
+        "strand": 1,
+        "impact": "MODIFIER",
+        "gene_id": "ENSG00000261095",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "biotype": "lncRNA",
+        "variant_allele": "G",
+        "transcript_id": "ENST00000566092"
+      }
+    ],
+    "id": "rs11640181",
+    "allele_string": "A/C/G",
+    "end": 87224482,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "allele_string": "A/C/G",
+    "end": 87193111,
+    "assembly_name": "GRCh38",
+    "colocated_variants": [
+      {
+        "start": 87193111,
+        "strand": 1,
+        "allele_string": "A/C/G",
+        "seq_region_name": "16",
+        "id": "rs12921714",
+        "frequencies": {
+          "G": {
+            "gnomadg_remaining": 0,
+            "gnomadg_fin": 0,
+            "gnomadg_sas": 0,
+            "gnomadg": 6.615e-06,
+            "gnomadg_mid": 0,
+            "gnomadg_afr": 0,
+            "gnomadg_ami": 0,
+            "gnomadg_amr": 0,
+            "gnomadg_nfe": 1.473e-05,
+            "gnomadg_asj": 0,
+            "gnomadg_eas": 0
+          },
+          "C": {
+            "gnomadg_fin": 0.544,
+            "gnomadg_sas": 0.6182,
+            "amr": 0.5836,
+            "gnomadg_nfe": 0.6674,
+            "afr": 0.8026,
+            "gnomadg_eas": 0.155,
+            "eas": 0.1667,
+            "gnomadg_remaining": 0.6478,
+            "gnomadg_mid": 0.7158,
+            "sas": 0.591,
+            "gnomadg_afr": 0.7784,
+            "af": 0.5689,
+            "eur": 0.6332,
+            "gnomadg": 0.6623,
+            "gnomadg_amr": 0.5704,
+            "gnomadg_ami": 0.6894,
+            "gnomadg_asj": 0.7454
+          }
+        },
+        "end": 87193111
+      }
+    ],
+    "input": "rs12921714",
+    "start": 87193111,
+    "seq_region_name": "16",
+    "most_severe_consequence": "intron_variant",
+    "strand": 1,
+    "transcript_consequences": [
+      {
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "C",
+        "transcript_id": "ENST00000562840",
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "strand": -1,
+        "impact": "MODIFIER",
+        "gene_symbol_source": "HGNC"
+      },
+      {
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "biotype": "protein_coding_CDS_not_defined",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "G",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ]
+      }
+    ],
+    "id": "rs12921714"
+  },
+  {
+    "allele_string": "C/A/G/T",
+    "end": 87195829,
+    "assembly_name": "GRCh38",
+    "colocated_variants": [
+      {
+        "strand": 1,
+        "start": 87195829,
+        "allele_string": "C/A/G/T",
+        "id": "rs6540016",
+        "seq_region_name": "16",
+        "pubmed": [
+          22407726
+        ],
+        "end": 87195829,
+        "frequencies": {
+          "G": {
+            "gnomadg_afr": 2.416e-05,
+            "gnomadg_mid": 0,
+            "gnomadg": 6.579e-06,
+            "gnomadg_sas": 0,
+            "gnomadg_remaining": 0,
+            "gnomadg_fin": 0,
+            "gnomadg_eas": 0,
+            "gnomadg_asj": 0,
+            "gnomadg_nfe": 0,
+            "gnomadg_ami": 0,
+            "gnomadg_amr": 0
+          },
+          "T": {
+            "eas": 0.1627,
+            "gnomadg_eas": 0.1552,
+            "amr": 0.5865,
+            "gnomadg_nfe": 0.6628,
+            "afr": 0.8086,
+            "gnomadg_sas": 0.6205,
+            "gnomadg_fin": 0.5427,
+            "gnomadg_asj": 0.7448,
+            "gnomadg_amr": 0.5704,
+            "gnomadg_ami": 0.6901,
+            "sas": 0.5941,
+            "gnomadg_afr": 0.78,
+            "gnomadg_mid": 0.7177,
+            "eur": 0.6312,
+            "gnomadg": 0.6606,
+            "af": 0.5703,
+            "gnomadg_remaining": 0.6477
+          }
+        }
+      }
+    ],
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "strand": 1,
+    "id": "rs6540016",
+    "transcript_consequences": [
+      {
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "A",
+        "biotype": "protein_coding_CDS_not_defined",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1
+      },
+      {
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "G",
+        "transcript_id": "ENST00000562840",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ]
+      },
+      {
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "T",
+        "transcript_id": "ENST00000562840",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "gene_symbol_source": "HGNC"
+      }
+    ],
+    "input": "rs6540016",
+    "start": 87195829
+  },
+  {
+    "assembly_name": "GRCh38",
+    "allele_string": "T/C",
+    "end": 87191249,
+    "input": "rs9308342",
+    "start": 87191249,
+    "seq_region_name": "16",
+    "most_severe_consequence": "intron_variant",
+    "strand": 1,
+    "transcript_consequences": [
+      {
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER",
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "C",
+        "transcript_id": "ENST00000562840"
+      }
+    ],
+    "id": "rs9308342",
+    "colocated_variants": [
+      {
+        "strand": 1,
+        "start": 87191249,
+        "allele_string": "T/C",
+        "id": "rs9308342",
+        "seq_region_name": "16",
+        "end": 87191249,
+        "frequencies": {
+          "C": {
+            "gnomadg_afr": 0.7433,
+            "sas": 0.591,
+            "gnomadg_mid": 0.7143,
+            "gnomadg": 0.6513,
+            "eur": 0.6322,
+            "af": 0.5615,
+            "gnomadg_remaining": 0.6392,
+            "gnomadg_asj": 0.7457,
+            "gnomadg_ami": 0.6901,
+            "gnomadg_amr": 0.5653,
+            "gnomadg_sas": 0.6157,
+            "gnomadg_fin": 0.5434,
+            "gnomadg_eas": 0.1554,
+            "eas": 0.1657,
+            "gnomadg_nfe": 0.6663,
+            "amr": 0.5821,
+            "afr": 0.7769
+          }
+        }
+      }
+    ]
+  },
+  {
+    "allele_string": "A/C/G",
+    "end": 87196133,
+    "assembly_name": "GRCh38",
+    "colocated_variants": [
+      {
+        "id": "rs7185688",
+        "seq_region_name": "16",
+        "frequencies": {
+          "G": {
+            "gnomadg_remaining": 0.6461,
+            "af": 0.5699,
+            "gnomadg": 0.6608,
+            "eur": 0.6292,
+            "gnomadg_mid": 0.7245,
+            "sas": 0.5869,
+            "gnomadg_afr": 0.7823,
+            "gnomadg_amr": 0.5688,
+            "gnomadg_ami": 0.6886,
+            "gnomadg_asj": 0.7415,
+            "gnomadg_fin": 0.5445,
+            "gnomadg_sas": 0.618,
+            "afr": 0.8116,
+            "gnomadg_nfe": 0.6625,
+            "amr": 0.5865,
+            "eas": 0.1657,
+            "gnomadg_eas": 0.1561
+          }
+        },
+        "end": 87196133,
+        "start": 87196133,
+        "strand": 1,
+        "allele_string": "A/C/G"
+      }
+    ],
+    "input": "rs7185688",
+    "start": 87196133,
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "strand": 1,
+    "transcript_consequences": [
+      {
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "C",
+        "transcript_id": "ENST00000562840",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "gene_symbol_source": "HGNC"
+      },
+      {
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "G",
+        "transcript_id": "ENST00000562840",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "gene_symbol_source": "HGNC"
+      }
+    ],
+    "id": "rs7185688"
+  },
+  {
+    "allele_string": "G/A",
+    "end": 87202310,
+    "assembly_name": "GRCh38",
+    "colocated_variants": [
+      {
+        "strand": 1,
+        "start": 87202310,
+        "allele_string": "G/A",
+        "pubmed": [
+          33875891,
+          37236919,
+          31666681,
+          31676860,
+          39789286,
+          38789058
+        ],
+        "id": "rs4240791",
+        "seq_region_name": "16",
+        "phenotype_or_disease": 1,
+        "end": 87202310,
+        "frequencies": {
+          "A": {
+            "afr": 0.2632,
+            "amr": 0.5144,
+            "gnomadg_nfe": 0.6057,
+            "gnomadg_eas": 0.2236,
+            "eas": 0.2242,
+            "gnomadg_fin": 0.5681,
+            "gnomadg_sas": 0.4948,
+            "gnomadg_ami": 0.6454,
+            "gnomadg_amr": 0.4847,
+            "gnomadg_asj": 0.6573,
+            "gnomadg_remaining": 0.5208,
+            "eur": 0.5895,
+            "gnomadg": 0.488,
+            "af": 0.3954,
+            "sas": 0.4663,
+            "gnomadg_afr": 0.2879,
+            "gnomadg_mid": 0.5986
+          }
+        }
+      }
+    ],
+    "most_severe_consequence": "intron_variant",
+    "strand": 1,
+    "seq_region_name": "16",
+    "id": "rs4240791",
+    "transcript_consequences": [
+      {
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "A",
+        "transcript_id": "ENST00000562840",
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER"
+      }
+    ],
+    "input": "rs4240791",
+    "start": 87202310
+  },
+  {
+    "most_severe_consequence": "intron_variant",
+    "strand": 1,
+    "seq_region_name": "16",
+    "transcript_consequences": [
+      {
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER",
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "G",
+        "transcript_id": "ENST00000562840"
+      }
+    ],
+    "id": "rs7203251",
+    "input": "rs7203251",
+    "start": 87195712,
+    "colocated_variants": [
+      {
+        "frequencies": {
+          "G": {
+            "gnomadg_mid": 0.7177,
+            "gnomadg_afr": 0.7944,
+            "sas": 0.593,
+            "af": 0.5755,
+            "gnomadg": 0.665,
+            "eur": 0.6312,
+            "gnomadg_remaining": 0.6515,
+            "gnomadg_asj": 0.7445,
+            "gnomadg_ami": 0.6886,
+            "gnomadg_amr": 0.5736,
+            "gnomadg_sas": 0.621,
+            "gnomadg_fin": 0.5422,
+            "eas": 0.1657,
+            "gnomadg_eas": 0.1571,
+            "amr": 0.5908,
+            "gnomadg_nfe": 0.6633,
+            "afr": 0.8245
+          }
+        },
+        "end": 87195712,
+        "id": "rs7203251",
+        "seq_region_name": "16",
+        "allele_string": "A/G",
+        "start": 87195712,
+        "strand": 1
+      }
+    ],
+    "assembly_name": "GRCh38",
+    "allele_string": "A/G",
+    "end": 87195712
+  },
+  {
+    "colocated_variants": [
+      {
+        "strand": 1,
+        "start": 87202406,
+        "allele_string": "T/A/C/G",
+        "id": "rs4240789",
+        "seq_region_name": "16",
+        "pubmed": [
+          31676860
+        ],
+        "phenotype_or_disease": 1,
+        "end": 87202406,
+        "frequencies": {
+          "A": {
+            "gnomadg_fin": 0,
+            "gnomadg_remaining": 0,
+            "gnomadg_afr": 4.835e-05,
+            "gnomadg_mid": 0,
+            "gnomadg": 1.974e-05,
+            "gnomadg_sas": 0,
+            "gnomadg_nfe": 1.471e-05,
+            "gnomadg_amr": 0,
+            "gnomadg_ami": 0,
+            "gnomadg_eas": 0,
+            "gnomadg_asj": 0
+          },
+          "G": {
+            "gnomadg": 0.6709,
+            "eur": 0.672,
+            "af": 0.5809,
+            "sas": 0.5961,
+            "gnomadg_afr": 0.7299,
+            "gnomadg_mid": 0.7109,
+            "gnomadg_remaining": 0.6614,
+            "gnomadg_asj": 0.7523,
+            "gnomadg_ami": 0.6956,
+            "gnomadg_amr": 0.582,
+            "gnomadg_sas": 0.6249,
+            "gnomadg_fin": 0.6328,
+            "gnomadg_eas": 0.2552,
+            "eas": 0.25,
+            "afr": 0.7458,
+            "gnomadg_nfe": 0.6911,
+            "amr": 0.5937
+          }
+        }
+      }
+    ],
+    "input": "rs4240789",
+    "start": 87202406,
+    "strand": 1,
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "id": "rs4240789",
+    "transcript_consequences": [
+      {
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "A",
+        "biotype": "protein_coding_CDS_not_defined",
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER"
+      },
+      {
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "variant_allele": "C",
+        "transcript_id": "ENST00000562840",
+        "biotype": "protein_coding_CDS_not_defined",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95"
+      },
+      {
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "G",
+        "transcript_id": "ENST00000562840",
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER"
+      }
+    ],
+    "allele_string": "T/A/C/G",
+    "end": 87202406,
+    "assembly_name": "GRCh38"
+  },
+  {
+    "allele_string": "T/A/C",
+    "end": 87196931,
+    "assembly_name": "GRCh38",
+    "colocated_variants": [
+      {
+        "allele_string": "T/A/C",
+        "start": 87196931,
+        "strand": 1,
+        "phenotype_or_disease": 1,
+        "frequencies": {
+          "C": {
+            "gnomadg_mid": 0.2381,
+            "gnomadg_afr": 0.1536,
+            "sas": 0.3661,
+            "af": 0.2402,
+            "gnomadg": 0.2405,
+            "eur": 0.2942,
+            "gnomadg_remaining": 0.2609,
+            "gnomadg_asj": 0.216,
+            "gnomadg_ami": 0.1954,
+            "gnomadg_amr": 0.2302,
+            "gnomadg_sas": 0.3211,
+            "gnomadg_fin": 0.3067,
+            "gnomadg_eas": 0.1955,
+            "eas": 0.2292,
+            "amr": 0.2349,
+            "gnomadg_nfe": 0.2844,
+            "afr": 0.1172
+          }
+        },
+        "end": 87196931,
+        "pubmed": [
+          35383335,
+          31666681
+        ],
+        "id": "rs11860417",
+        "seq_region_name": "16"
+      }
+    ],
+    "input": "rs11860417",
+    "start": 87196931,
+    "seq_region_name": "16",
+    "most_severe_consequence": "intron_variant",
+    "strand": 1,
+    "transcript_consequences": [
+      {
+        "strand": -1,
+        "impact": "MODIFIER",
+        "gene_symbol_source": "HGNC",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "A",
+        "transcript_id": "ENST00000562840",
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033"
+      },
+      {
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER",
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "variant_allele": "C",
+        "transcript_id": "ENST00000562840",
+        "biotype": "protein_coding_CDS_not_defined"
+      }
+    ],
+    "id": "rs11860417"
+  },
+  {
+    "end": 87194558,
+    "allele_string": "G/A/T",
+    "assembly_name": "GRCh38",
+    "colocated_variants": [
+      {
+        "frequencies": {
+          "A": {
+            "gnomadg_sas": 0.6163,
+            "gnomadg_fin": 0.5384,
+            "gnomadg_eas": 0.1552,
+            "eas": 0.1657,
+            "amr": 0.5836,
+            "gnomadg_nfe": 0.6625,
+            "afr": 0.8026,
+            "gnomadg_mid": 0.7177,
+            "sas": 0.592,
+            "gnomadg_afr": 0.777,
+            "af": 0.5683,
+            "eur": 0.6302,
+            "gnomadg": 0.6588,
+            "gnomadg_remaining": 0.6459,
+            "gnomadg_asj": 0.7445,
+            "gnomadg_ami": 0.6886,
+            "gnomadg_amr": 0.569
+          },
+          "T": {
+            "gnomadg": 1.315e-05,
+            "gnomadg_sas": 0,
+            "gnomadg_afr": 0,
+            "gnomadg_mid": 0,
+            "gnomadg_remaining": 0,
+            "gnomadg_fin": 0,
+            "gnomadg_asj": 0,
+            "gnomadg_eas": 0,
+            "gnomadg_ami": 0,
+            "gnomadg_amr": 0,
+            "gnomadg_nfe": 2.941e-05
+          }
+        },
+        "end": 87194558,
+        "pubmed": [
+          22407726
+        ],
+        "seq_region_name": "16",
+        "id": "rs4843556",
+        "allele_string": "G/A/T",
+        "start": 87194558,
+        "strand": 1
+      }
+    ],
+    "id": "rs4843556",
+    "transcript_consequences": [
+      {
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER",
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "variant_allele": "A",
+        "transcript_id": "ENST00000562840",
+        "biotype": "protein_coding_CDS_not_defined"
+      },
+      {
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1,
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033",
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "T",
+        "transcript_id": "ENST00000562840",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ]
+      }
+    ],
+    "most_severe_consequence": "intron_variant",
+    "seq_region_name": "16",
+    "strand": 1,
+    "start": 87194558,
+    "input": "rs4843556"
+  },
+  {
+    "seq_region_name": "16",
+    "most_severe_consequence": "intron_variant",
+    "strand": 1,
+    "id": "rs4240790",
+    "transcript_consequences": [
+      {
+        "strand": -1,
+        "impact": "MODIFIER",
+        "gene_symbol_source": "HGNC",
+        "gene_symbol": "C16orf95",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "biotype": "protein_coding_CDS_not_defined",
+        "variant_allele": "G",
+        "transcript_id": "ENST00000562840",
+        "gene_id": "ENSG00000260456",
+        "hgnc_id": "HGNC:40033"
+      },
+      {
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "T",
+        "biotype": "protein_coding_CDS_not_defined",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "gene_symbol_source": "HGNC",
+        "impact": "MODIFIER",
+        "strand": -1
+      }
+    ],
+    "input": "rs4240790",
+    "start": 87202360,
+    "colocated_variants": [
+      {
+        "frequencies": {
+          "G": {
+            "gnomadg_mid": 0.6565,
+            "gnomadg_afr": 0.4748,
+            "sas": 0.4785,
+            "af": 0.4669,
+            "gnomadg": 0.5675,
+            "eur": 0.6322,
+            "gnomadg_remaining": 0.5875,
+            "gnomadg_asj": 0.7342,
+            "gnomadg_ami": 0.6678,
+            "gnomadg_amr": 0.5192,
+            "gnomadg_sas": 0.5133,
+            "gnomadg_fin": 0.5835,
+            "eas": 0.2252,
+            "gnomadg_eas": 0.2245,
+            "gnomadg_nfe": 0.6513,
+            "amr": 0.5447,
+            "afr": 0.4758
+          }
+        },
+        "end": 87202360,
+        "seq_region_name": "16",
+        "id": "rs4240790",
+        "allele_string": "A/G/T",
+        "start": 87202360,
+        "strand": 1
+      }
+    ],
+    "assembly_name": "GRCh38",
+    "allele_string": "A/G/T",
+    "end": 87202360
+  },
+  {
+    "transcript_consequences": [
+      {
+        "gene_symbol_source": "HGNC",
+        "strand": -1,
+        "impact": "MODIFIER",
+        "hgnc_id": "HGNC:40033",
+        "gene_id": "ENSG00000260456",
+        "consequence_terms": [
+          "intron_variant",
+          "non_coding_transcript_variant"
+        ],
+        "gene_symbol": "C16orf95",
+        "transcript_id": "ENST00000562840",
+        "variant_allele": "A",
+        "biotype": "protein_coding_CDS_not_defined"
+      }
+    ],
+    "id": "rs4240792",
+    "most_severe_consequence": "intron_variant",
+    "strand": 1,
+    "seq_region_name": "16",
+    "start": 87202261,
+    "input": "rs4240792",
+    "colocated_variants": [
+      {
+        "allele_string": "G/A",
+        "strand": 1,
+        "start": 87202261,
+        "end": 87202261,
+        "frequencies": {
+          "A": {
+            "gnomadg_mid": 0.6735,
+            "gnomadg_afr": 0.6451,
+            "sas": 0.4785,
+            "af": 0.5146,
+            "gnomadg": 0.6164,
+            "eur": 0.6322,
+            "gnomadg_remaining": 0.6128,
+            "gnomadg_asj": 0.7342,
+            "gnomadg_ami": 0.6714,
+            "gnomadg_amr": 0.537,
+            "gnomadg_sas": 0.5143,
+            "gnomadg_fin": 0.584,
+            "eas": 0.2252,
+            "gnomadg_eas": 0.2244,
+            "gnomadg_nfe": 0.6518,
+            "amr": 0.5562,
+            "afr": 0.6505
+          }
+        },
+        "phenotype_or_disease": 1,
+        "pubmed": [
+          31676860,
+          38438384
+        ],
+        "seq_region_name": "16",
+        "id": "rs4240792"
+      }
+    ],
+    "assembly_name": "GRCh38",
+    "end": 87202261,
+    "allele_string": "G/A"
+  }
+]

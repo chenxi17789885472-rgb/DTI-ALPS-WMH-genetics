@@ -1,0 +1,15 @@
+{
+  "exposure_IV_original": 12,
+  "direct_outcome_matches": 10,
+  "conservative_nonpalindromic_direct": 8,
+  "proxies_added": 2,
+  "final_IV": 10,
+  "minimum_F": 29.8433,
+  "median_F": 37.3182,
+  "go_threshold": 10,
+  "gate_status": "GO_EXPLORATORY_MR",
+  "exposure_sample_median": 30952,
+  "outcome_sample_size": 3670,
+  "sample_overlap": "None known",
+  "analysis_limit": "Small stroke-cohort WMH outcome; low power; exactly at IV threshold."
+}

@@ -1,0 +1,16 @@
+phenotype_label,stage,count
+Mean ALPS,"Genome-wide
+significant",554
+Left ALPS,"Genome-wide
+significant",470
+Right ALPS,"Genome-wide
+significant",594
+Mean ALPS,QC-retained,498
+Left ALPS,QC-retained,426
+Right ALPS,QC-retained,536
+Mean ALPS,"Independent
+sentinels",12
+Left ALPS,"Independent
+sentinels",7
+Right ALPS,"Independent
+sentinels",10

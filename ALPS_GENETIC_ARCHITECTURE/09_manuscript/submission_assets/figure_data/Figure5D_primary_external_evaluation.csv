@@ -1,0 +1,13 @@
+ALPS_phenotype,trait_label,dataset,hypothesis,posterior
+mALPS,Mean ALPS,Primary WMH (overlapping),PP3,0.0198413180227797
+mALPS,Mean ALPS,Primary WMH (overlapping),PP4,0.980158236149809
+left_ALPS,Left ALPS,Primary WMH (overlapping),PP3,0.0208215731406793
+left_ALPS,Left ALPS,Primary WMH (overlapping),PP4,0.979139399694039
+right_ALPS,Right ALPS,Primary WMH (overlapping),PP3,0.0260714015601068
+right_ALPS,Right ALPS,Primary WMH (overlapping),PP4,0.973928410488471
+mALPS,Mean ALPS,Traylor WMH (non-UKB),PP3,0.60014206386695
+mALPS,Mean ALPS,Traylor WMH (non-UKB),PP4,0.0113852612192998
+left_ALPS,Left ALPS,Traylor WMH (non-UKB),PP3,0.59838766078128
+left_ALPS,Left ALPS,Traylor WMH (non-UKB),PP4,0.0122382803210863
+right_ALPS,Right ALPS,Traylor WMH (non-UKB),PP3,0.600765176912721
+right_ALPS,Right ALPS,Traylor WMH (non-UKB),PP4,0.0103763503390514

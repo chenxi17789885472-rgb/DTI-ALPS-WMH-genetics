@@ -1,0 +1,2 @@
+nsnp,sum_r2_exposure,sum_r2_outcome,correct_direction,SNP_fraction_correct,caveat
+10,0.0118811121550866,0.00427741223042761,TRUE,0.9,Approximate: both traits treated as standardized quantitative phenotypes; outcome EAF proxied by exposure EAF.

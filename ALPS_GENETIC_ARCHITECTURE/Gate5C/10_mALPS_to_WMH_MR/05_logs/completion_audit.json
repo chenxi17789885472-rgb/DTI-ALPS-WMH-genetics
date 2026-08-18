@@ -1,0 +1,40 @@
+{
+  "analysis": "mALPS_to_Traylor2016_nonUKB_WMH_exploratory_MR",
+  "date": "2026-07-26",
+  "scope": {
+    "mALPS": "completed",
+    "left_ALPS": "not_run_IV_below_10",
+    "right_ALPS": "not_run_harmonized_IV_below_10"
+  },
+  "instruments": {
+    "original": 12,
+    "final": 10,
+    "direct": 8,
+    "proxies": 2,
+    "proxy_r2": 1.0,
+    "minimum_F": 29.8433,
+    "median_F": 37.3182
+  },
+  "primary_result": {
+    "method": "IVW",
+    "beta": -0.4697252,
+    "se": 0.1549568,
+    "ci_lower": -0.7734349,
+    "ci_upper": -0.1660155,
+    "p": 0.0024348
+  },
+  "sensitivity": {
+    "weighted_median_direction_consistent": true,
+    "mr_raps_direction_consistent": true,
+    "cochran_Q_p": 0.7217323,
+    "egger_intercept_p": 0.6795039,
+    "presso_global_p": 0.7621,
+    "presso_outliers": 0,
+    "leave_one_out_direction_stable": true,
+    "direct_only_IVW_p": 0.0074581,
+    "chr16_excluded_IVW_p": 0.0043183,
+    "strongest_outcome_SNP_excluded_IVW_p": 0.0159310
+  },
+  "decision": "SUPPORTIVE_EXPLORATORY_POSITIVE",
+  "critical_limitation": "Small stroke-cohort outcome and exactly 10 final instruments; larger non-UKB CHARGE replication remains required."
+}

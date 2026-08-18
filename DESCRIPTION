@@ -1,0 +1,33 @@
+Package: dtialpswmh
+Type: Project
+Title: Genetic Relationship Between MRI-Derived DTI-ALPS Phenotypes and WMH Burden
+Version: 0.1.0
+Authors@R: person("Study", "Authors", role = c("aut", "cre"))
+Description: Reproducible analysis environment for DTI-ALPS genetic architecture,
+    white matter hyperintensity genetic correlation, regional colocalization,
+    fine-mapping, functional annotation, and exploratory Mendelian randomization.
+License: file LICENSE
+Encoding: UTF-8
+Imports:
+    coloc,
+    data.table,
+    digest,
+    dplyr,
+    ggrepel,
+    ggplot2,
+    ieugwasr,
+    jsonlite,
+    MendelianRandomization,
+    mr.raps,
+    MRPRESSO,
+    openxlsx,
+    patchwork,
+    png,
+    ragg,
+    RadialMR,
+    scales,
+    svglite,
+    susieR,
+    targets,
+    TwoSampleMR,
+    yaml

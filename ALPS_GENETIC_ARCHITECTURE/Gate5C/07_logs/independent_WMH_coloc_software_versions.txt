@@ -1,0 +1,3 @@
+R R version 4.6.0 (2026-04-24)
+coloc 5.2.3
+data.table 1.18.4

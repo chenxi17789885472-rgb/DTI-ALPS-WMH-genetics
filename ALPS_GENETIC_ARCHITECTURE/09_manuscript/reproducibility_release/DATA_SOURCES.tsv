@@ -1,0 +1,9 @@
+dataset	role	phenotype	ancestry	sample_size	build	source_url	overlap_note	local_input_or_audit
+Huang_2025_ALPS	Primary imaging phenotypes	Mean, left, and right DTI-ALPS	White British	up to 31021	GRCh37	https://figshare.com/articles/dataset/GWAS_summary_statistics_for_ALPS-index/25515331	UK Biobank source dataset	01_ALPS_GWAS/
+Sargurupremraj_2020_WMH	Primary WMH comparison	Inverse-normalized total WMH burden	European	48454	GRCh37	https://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs002227/analyses/Fulldata/phs002227.NeuroCHARGE.analysis-PI.MULTI.tar.gz	Includes 26788 UK Biobank imaging participants	Gate5C/02_LDSC_raw/WMH_Sargurupremraj2020_EUR.txt.gz
+Traylor_2016_WMH	Non-UKB formal regional evaluation	Quantitative WMH burden in ischemic-stroke cohorts	European	3670	GRCh37	https://doi.org/10.1212/WNL.0000000000002263	No UK Biobank; independence from every non-UKB primary-meta component not fully documented	Gate5C/01_WMH_independent/26674333.Traylor.2016.txt.gz
+CHARGE_Verhaaren_WMH	Non-UKB regional lookup	ln(WMH+1)	European	up to 17936	GRCh37	https://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000930/analyses/	No UK Biobank; public file P-value truncated	Gate5C/09_nonUKB_WMH_replication_upgrade/
+FinnGen_R13	Targeted screen and LDSC traits	Registry disease endpoints	Finnish/European	varies	GRCh38	https://www.finngen.fi/en/access_results	No known UK Biobank overlap	04_PheWAS/ and Gate5C/02_LDSC_raw/
+1000_Genomes_EUR	LD reference	European linkage disequilibrium	European	489	GRCh37	https://www.internationalgenome.org/data	Reference panel, not a phenotype cohort	Gate5C/05_finemapping/1000G_EUR_chr16_susie.unphased.vcor1
+GTEx_v8	Functional annotation	Single-tissue eQTL	multi-tissue	838 donors	GRCh38	https://gtexportal.org/home/datasets	No participant-level integration	Gate5D/02_GTEx_eQTL/
+Ensembl_VEP	Variant annotation	Variant consequence	NA	NA	GRCh38	https://www.ensembl.org/info/docs/tools/vep/index.html	Not applicable	Gate5D/02_GTEx_eQTL/

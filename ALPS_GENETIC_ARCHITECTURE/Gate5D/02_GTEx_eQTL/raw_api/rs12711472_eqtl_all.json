@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "snpId": "rs12711472",
+      "pos": 87190526,
+      "snpIdUpper": "RS12711472",
+      "variantId": "chr16_87190526_A_C_b38",
+      "geneSymbol": "RP11-899L11.1",
+      "pValue": 1.05887e-06,
+      "geneSymbolUpper": "RP11-899L11.1",
+      "datasetId": "gtex_v8",
+      "tissueSiteDetailId": "Nerve_Tibial",
+      "ontologyId": "UBERON:0001323",
+      "chromosome": "chr16",
+      "gencodeId": "ENSG00000261095.1",
+      "nes": -0.260464
+    },
+    {
+      "snpId": "rs12711472",
+      "pos": 87190526,
+      "snpIdUpper": "RS12711472",
+      "variantId": "chr16_87190526_A_C_b38",
+      "geneSymbol": "RP11-899L11.3",
+      "pValue": 9.50851e-11,
+      "geneSymbolUpper": "RP11-899L11.3",
+      "datasetId": "gtex_v8",
+      "tissueSiteDetailId": "Testis",
+      "ontologyId": "UBERON:0000473",
+      "chromosome": "chr16",
+      "gencodeId": "ENSG00000261651.1",
+      "nes": 0.31304
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 100000,
+    "totalNumberOfItems": 2
+  }
+}

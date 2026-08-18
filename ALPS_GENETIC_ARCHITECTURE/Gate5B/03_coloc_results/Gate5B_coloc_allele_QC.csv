@@ -1,0 +1,10 @@
+pair_id,region_id,ALPS_phenotype,external_trait,raw_ALPS_rows,raw_external_rows,common_rsid_before_allele_QC,common_SNPs_after_allele_QC,palindromic_SNPs,strand_complement_SNPs,minimum_ALPS_P,minimum_external_P
+ALPS_L16_011__mALPS__WMH,ALPS_L16_011,mALPS,WMH,4349,3215,2985,2973,572,0,1.53285e-10,9.815e-18
+ALPS_L16_011__left_ALPS__WMH,ALPS_L16_011,left_ALPS,WMH,4349,3215,2985,2974,572,0,1.5604e-08,9.815e-18
+ALPS_L16_011__right_ALPS__WMH,ALPS_L16_011,right_ALPS,WMH,4349,3215,2985,2973,572,0,4.70284e-11,9.815e-18
+ALPS_L17_012__mALPS__sleep_duration,ALPS_L17_012,mALPS,sleep_duration,3557,6831,2864,2786,363,0,3.63928e-09,1e-09
+ALPS_L17_012__left_ALPS__sleep_duration,ALPS_L17_012,left_ALPS,sleep_duration,3557,6831,2864,2786,363,0,1.02892e-06,1e-09
+ALPS_L17_012__right_ALPS__sleep_duration,ALPS_L17_012,right_ALPS,sleep_duration,3557,6831,2864,2786,363,0,4.04967e-10,1e-09
+ALPS_L17_012__mALPS__insomnia,ALPS_L17_012,mALPS,insomnia,3557,6831,2864,2786,363,0,3.63928e-09,0.00092
+ALPS_L17_012__left_ALPS__insomnia,ALPS_L17_012,left_ALPS,insomnia,3557,6831,2864,2786,363,0,1.02892e-06,0.00092
+ALPS_L17_012__right_ALPS__insomnia,ALPS_L17_012,right_ALPS,insomnia,3557,6831,2864,2786,363,0,4.04967e-10,0.00092

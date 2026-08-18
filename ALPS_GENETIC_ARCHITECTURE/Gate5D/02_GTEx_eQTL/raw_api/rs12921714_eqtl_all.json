@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "snpId": "rs12921714",
+      "pos": 87193111,
+      "snpIdUpper": "RS12921714",
+      "variantId": "chr16_87193111_A_C_b38",
+      "geneSymbol": "RP11-899L11.3",
+      "pValue": 5.43024e-11,
+      "geneSymbolUpper": "RP11-899L11.3",
+      "datasetId": "gtex_v8",
+      "tissueSiteDetailId": "Testis",
+      "ontologyId": "UBERON:0000473",
+      "chromosome": "chr16",
+      "gencodeId": "ENSG00000261651.1",
+      "nes": 0.329321
+    }
+  ],
+  "paging_info": {
+    "numberOfPages": 1,
+    "page": 0,
+    "maxItemsPerPage": 100000,
+    "totalNumberOfItems": 1
+  }
+}
