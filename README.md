@@ -1,19 +1,18 @@
 # DTI-ALPS–WMH genetic relationship: reproducibility materials
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21997217.svg)](https://doi.org/10.5281/zenodo.21997217)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21997216.svg)](https://doi.org/10.5281/zenodo.21997216)
 
-This repository accompanies the manuscript **"Genome-wide and Regional Genetic Relationships Between DTI-ALPS Phenotypes and White Matter Hyperintensity Burden: Colocalization and Fine-Mapping Analyses."** It reproduces the core R-based analyses and publication figures. It contains no complete third-party GWAS dataset; public source data must be obtained from the original repositories under their respective terms.
+This repository accompanies the manuscript **"Genetic Relationship Between MRI-Derived DTI-ALPS Phenotypes and White Matter Hyperintensity Burden: Genome-wide Correlation, Colocalization, and Fine-Mapping Analyses."** It reproduces the core R-based analyses and publication figures. It contains no complete third-party GWAS dataset; public source data must be obtained from the original repositories under their respective terms.
 
 Permanent repository address: <https://github.com/chenxi17789885472-rgb/DTI-ALPS-WMH-genetics>
 
-Archived release: <https://doi.org/10.5281/zenodo.21997217>  
-Concept DOI for all versions: <https://doi.org/10.5281/zenodo.21997216>
+Zenodo archive (all versions): <https://doi.org/10.5281/zenodo.21997216>
 
 ## Authors
 
 Qingqing Fu and Ge Zhang contributed equally. Weiyuan Huang and Feng Chen are
 co-corresponding authors. All authors are affiliated with the Department of
-Radiology, Hainan General Hospital, Affiliated Hospital of Hainan Medical
+Radiology, Hainan General Hospital / Affiliated Hospital of Hainan Medical
 University, Haikou, Hainan, China.
 
 ## Repository scope

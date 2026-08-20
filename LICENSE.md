@@ -5,8 +5,8 @@
 Unless stated otherwise in an individual file, original source code in this
 repository is released under the MIT License:
 
-Copyright (c) 2026 Qingqing Fu, Ge Zhang, Huijuan Chen, Yihao Guo, Lili Fu,
-Fen Dong, Weiyuan Huang, and Feng Chen
+Copyright (c) 2026 Qingqing Fu, Ge Zhang, Huijuan Chen, Lili Fu, Fen Dong,
+Weiyuan Huang, and Feng Chen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -39,4 +39,3 @@ The illustrative FLAIR image adapted from Cai et al. is redistributed under
 the Creative Commons Attribution 4.0 International license. Its provenance
 and attribution are documented in
 `ALPS_GENETIC_ARCHITECTURE/09_manuscript/imaging_figure_sources/Real_MRI_Image_License_Audit.md`.
-

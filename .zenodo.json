@@ -1,0 +1,33 @@
+{
+  "title": "DTI-ALPS and WMH genetic relationship: analysis code and reproducibility materials",
+  "description": "Reproducibility release accompanying the manuscript on genome-wide and chromosome 16 regional genetic relationships between DTI-ALPS phenotypes and white matter hyperintensity burden. This release includes analysis code, frozen regional inputs, derived results, figure source data, publication figures, environment metadata, and integrity checksums. Third-party source data remain subject to their original access and licensing terms.",
+  "creators": [
+    {"name": "Fu, Qingqing", "affiliation": "Department of Radiology, Hainan General Hospital / Affiliated Hospital of Hainan Medical University"},
+    {"name": "Zhang, Ge", "affiliation": "Department of Radiology, Hainan General Hospital / Affiliated Hospital of Hainan Medical University"},
+    {"name": "Chen, Huijuan", "affiliation": "Department of Radiology, Hainan General Hospital / Affiliated Hospital of Hainan Medical University"},
+    {"name": "Fu, Lili", "affiliation": "Department of Radiology, Hainan General Hospital / Affiliated Hospital of Hainan Medical University"},
+    {"name": "Dong, Fen", "affiliation": "Department of Radiology, Hainan General Hospital / Affiliated Hospital of Hainan Medical University"},
+    {"name": "Huang, Weiyuan", "affiliation": "Department of Radiology, Hainan General Hospital / Affiliated Hospital of Hainan Medical University"},
+    {"name": "Chen, Feng", "affiliation": "Department of Radiology, Hainan General Hospital / Affiliated Hospital of Hainan Medical University"}
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "version": "1.0.1",
+  "publication_date": "2026-08-21",
+  "keywords": [
+    "DTI-ALPS",
+    "white matter hyperintensity",
+    "imaging genetics",
+    "colocalization",
+    "fine-mapping",
+    "cerebral small vessel disease"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/chenxi17789885472-rgb/DTI-ALPS-WMH-genetics",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

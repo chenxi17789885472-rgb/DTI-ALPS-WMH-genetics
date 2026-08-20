@@ -2,9 +2,9 @@ cff-version: 1.2.0
 message: "If you use this code or the accompanying derived materials, please cite the associated article and this archived software release."
 title: "DTI-ALPS and WMH genetic relationship: analysis code and reproducibility materials"
 type: software
-version: 1.0.0
-date-released: 2026-08-18
-doi: "10.5281/zenodo.21997217"
+version: 1.0.1
+date-released: 2026-08-21
+doi: "10.5281/zenodo.21997216"
 authors:
   - family-names: Fu
     given-names: Qingqing
@@ -12,8 +12,6 @@ authors:
     given-names: Ge
   - family-names: Chen
     given-names: Huijuan
-  - family-names: Guo
-    given-names: Yihao
   - family-names: Fu
     given-names: Lili
   - family-names: Dong
